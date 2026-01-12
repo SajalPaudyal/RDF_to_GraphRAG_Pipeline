@@ -232,10 +232,10 @@ example
 
     the relation like below should be defined that follows the chain, of father and brother making the relation `hasUncle` valid.
 
-    ```turtle
+```turtle
     :hasUncle a owl:objectProperty;
         owl:propertyChainAxiom(:hasFather :hasBrother )
-    ```
+```
 
     The property hasUncle is implied to the chain of hasFather, and then hasBrother.
 
