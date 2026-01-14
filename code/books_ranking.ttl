@@ -1,0 +1,1819 @@
+@prefix ns: <http://www.semanticweb.org/sajalpaudyal/ontologies/2026/lemonde100/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns:Book_1 a ns:Book ;
+    rdfs:label "The Stranger" ;
+    ns:description "A detached clerk kills a man in Algiers and faces legal consequences with chilling indifference." ;
+    ns:goodReadRating 4.03 ;
+    ns:hasAuthor ns:Albert_Camus ;
+    ns:hasGenre ns:Existentialist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 1 ;
+    ns:publicationYear "1942"^^xsd:gYear ;
+    ns:title "The Stranger" ;
+    rdfs:comment "A detached clerk kills a man in Algiers and faces legal consequences with chilling indifference." .
+
+ns:Book_10 a ns:Book ;
+    rdfs:label "Froth on the Daydream" ;
+    ns:description "A surreal, tragicomic romance where a woman develops a water lily in her lung." ;
+    ns:goodReadRating 3.92 ;
+    ns:hasAuthor ns:Boris_Vian,
+        ns:Stanley_Chapman ;
+    ns:hasGenre ns:Surrealist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 10 ;
+    ns:publicationYear "1947"^^xsd:gYear ;
+    ns:title "Froth on the Daydream" ;
+    rdfs:comment "A surreal, tragicomic romance where a woman develops a water lily in her lung." .
+
+ns:Book_100 a ns:Book ;
+    rdfs:label "Midnight's Children" ;
+    ns:description "A magical realist epic following children born at the exact moment of India's independence." ;
+    ns:goodReadRating 3.97 ;
+    ns:hasAuthor ns:Salman_Rushdie ;
+    ns:hasGenre ns:Magic_Realism,
+        ns:Postcolonial_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 100 ;
+    ns:publicationYear "1981"^^xsd:gYear ;
+    ns:title "Midnight's Children" ;
+    rdfs:comment "A magical realist epic following children born at the exact moment of India's independence." .
+
+ns:Book_11 a ns:Book ;
+    rdfs:label "The Second Sex" ;
+    ns:description "A foundational feminist text analyzing the treatment of women throughout history." ;
+    ns:goodReadRating 4.18 ;
+    ns:hasAuthor ns:Simone_de_Beauvoir ;
+    ns:hasGenre ns:Feminist_Philosophy,
+        ns:Non_fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 11 ;
+    ns:publicationYear "1949"^^xsd:gYear ;
+    ns:title "The Second Sex" ;
+    rdfs:comment "A foundational feminist text analyzing the treatment of women throughout history." .
+
+ns:Book_12 a ns:Book ;
+    rdfs:label "Waiting for Godot" ;
+    ns:description "Two characters wait endlessly and fruitlessly for the arrival of someone named Godot." ;
+    ns:goodReadRating 3.84 ;
+    ns:hasAuthor ns:Samuel_Beckett ;
+    ns:hasGenre ns:Absurdist_Drama ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 12 ;
+    ns:publicationYear "1952"^^xsd:gYear ;
+    ns:title "Waiting for Godot" ;
+    rdfs:comment "Two characters wait endlessly and fruitlessly for the arrival of someone named Godot." .
+
+ns:Book_13 a ns:Book ;
+    rdfs:label "Being and Nothingness" ;
+    ns:description "A dense philosophical treatise on existentialism, free will, and the nature of consciousness." ;
+    ns:goodReadRating 3.99 ;
+    ns:hasAuthor ns:Jean_Paul_Sartre ;
+    ns:hasGenre ns:Existentialist_Philosophy,
+        ns:Non_fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 13 ;
+    ns:publicationYear "1943"^^xsd:gYear ;
+    ns:title "Being and Nothingness" ;
+    rdfs:comment "A dense philosophical treatise on existentialism, free will, and the nature of consciousness." .
+
+ns:Book_14 a ns:Book ;
+    rdfs:label "The Name of the Rose" ;
+    ns:description "A historical murder mystery set in an Italian monastery in 1327." ;
+    ns:goodReadRating 4.14 ;
+    ns:hasAuthor ns:Umberto_Eco ;
+    ns:hasGenre ns:Historical_Mystery,
+        ns:Postmodern_Fiction ;
+    ns:inLanguage ns:Italian ;
+    ns:leMondeRank 14 ;
+    ns:publicationYear "1980"^^xsd:gYear ;
+    ns:title "The Name of the Rose" ;
+    rdfs:comment "A historical murder mystery set in an Italian monastery in 1327." .
+
+ns:Book_15 a ns:Book ;
+    rdfs:label "The Gulag Archipelago" ;
+    ns:description "A harrowing account of the Soviet forced labor camp system based on eyewitness testimony." ;
+    ns:goodReadRating 4.33 ;
+    ns:hasAuthor ns:Aleksandr_Solzhenitsyn ;
+    ns:hasGenre ns:History,
+        ns:Memoir,
+        ns:Non_fiction ;
+    ns:inLanguage ns:Russian ;
+    ns:leMondeRank 15 ;
+    ns:publicationYear "1973"^^xsd:gYear ;
+    ns:title "The Gulag Archipelago" ;
+    rdfs:comment "A harrowing account of the Soviet forced labor camp system based on eyewitness testimony." .
+
+ns:Book_16 a ns:Book ;
+    rdfs:label "Paroles" ;
+    ns:description "A collection of accessible, rebellious, and deeply influential French poetry." ;
+    ns:goodReadRating 4.18 ;
+    ns:hasAuthor ns:Jacques_Prévert ;
+    ns:hasGenre ns:Poetry ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 16 ;
+    ns:publicationYear "1946"^^xsd:gYear ;
+    ns:title "Paroles" ;
+    rdfs:comment "A collection of accessible, rebellious, and deeply influential French poetry." .
+
+ns:Book_17 a ns:Book ;
+    rdfs:label "Alcools" ;
+    ns:description "A landmark collection of modernist poetry that experiments with form and removes punctuation." ;
+    ns:goodReadRating 3.84 ;
+    ns:hasAuthor ns:Guillaume_Apollinaire ;
+    ns:hasGenre ns:Poetry ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 17 ;
+    ns:publicationYear "1913"^^xsd:gYear ;
+    ns:title "Alcools" ;
+    rdfs:comment "A landmark collection of modernist poetry that experiments with form and removes punctuation." .
+
+ns:Book_18 a ns:Book ;
+    rdfs:label "The Blue Lotus" ;
+    ns:description "The fifth Tintin adventure, following the reporter to China to dismantle an opium ring." ;
+    ns:goodReadRating 4.13 ;
+    ns:hasAuthor ns:Hergé ;
+    ns:hasGenre ns:Adventure,
+        ns:Graphic_Novel ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 18 ;
+    ns:publicationYear "1936"^^xsd:gYear ;
+    ns:title "The Blue Lotus" ;
+    rdfs:comment "The fifth Tintin adventure, following the reporter to China to dismantle an opium ring." .
+
+ns:Book_19 a ns:Book ;
+    rdfs:label "The Diary of a Young Girl" ;
+    ns:description "The poignant real-life diary of a Jewish girl hiding from the Nazis in Amsterdam." ;
+    ns:goodReadRating 4.2 ;
+    ns:hasAuthor ns:Anne_Frank ;
+    ns:hasGenre ns:Autobiography,
+        ns:Non_fiction ;
+    ns:inLanguage ns:Dutch ;
+    ns:leMondeRank 19 ;
+    ns:publicationYear "1947"^^xsd:gYear ;
+    ns:title "The Diary of a Young Girl" ;
+    rdfs:comment "The poignant real-life diary of a Jewish girl hiding from the Nazis in Amsterdam." .
+
+ns:Book_2 a ns:Book ;
+    rdfs:label "In Search of Lost Time" ;
+    ns:description "A monumental exploration of memory, time, and high society through the narrator's life." ;
+    ns:goodReadRating 4.16 ;
+    ns:hasAuthor ns:Marcel_Proust ;
+    ns:hasGenre ns:Modernist_Literature ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 2 ;
+    ns:publicationYear "1913"^^xsd:gYear ;
+    ns:title "In Search of Lost Time" ;
+    rdfs:comment "A monumental exploration of memory, time, and high society through the narrator's life." .
+
+ns:Book_20 a ns:Book ;
+    rdfs:label "Tristes Tropiques" ;
+    ns:description "A philosophical travelogue and anthropological study of indigenous tribes in Brazil." ;
+    ns:goodReadRating 4.14 ;
+    ns:hasAuthor ns:Claude_Lévi_Strauss ;
+    ns:hasGenre ns:Anthropology,
+        ns:Memoir,
+        ns:Non_fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 20 ;
+    ns:publicationYear "1955"^^xsd:gYear ;
+    ns:title "Tristes Tropiques" ;
+    rdfs:comment "A philosophical travelogue and anthropological study of indigenous tribes in Brazil." .
+
+ns:Book_21 a ns:Book ;
+    rdfs:label "Brave New World" ;
+    ns:description "A dystopian vision of a future society driven by genetic engineering and social conditioning." ;
+    ns:goodReadRating 3.99 ;
+    ns:hasAuthor ns:Aldous_Huxley ;
+    ns:hasGenre ns:Dystopian,
+        ns:Science_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 21 ;
+    ns:publicationYear "1932"^^xsd:gYear ;
+    ns:title "Brave New World" ;
+    rdfs:comment "A dystopian vision of a future society driven by genetic engineering and social conditioning." .
+
+ns:Book_22 a ns:Book ;
+    rdfs:label "Nineteen Eighty-Four" ;
+    ns:description "A chilling portrayal of a totalitarian future under the constant surveillance of Big Brother." ;
+    ns:goodReadRating 4.2 ;
+    ns:hasAuthor ns:George_Orwell ;
+    ns:hasGenre ns:Dystopian,
+        ns:Political_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 22 ;
+    ns:publicationYear "1949"^^xsd:gYear ;
+    ns:title "Nineteen Eighty-Four" ;
+    rdfs:comment "A chilling portrayal of a totalitarian future under the constant surveillance of Big Brother." .
+
+ns:Book_23 a ns:Book ;
+    rdfs:label "Asterix the Gaul" ;
+    ns:description "The first adventure of the indomitable Gauls resisting Roman occupation with magic potion." ;
+    ns:goodReadRating 4.18 ;
+    ns:hasAuthor ns:Albert_Uderzo,
+        ns:René_Goscinny ;
+    ns:hasGenre ns:Comedy,
+        ns:Graphic_Novel ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 23 ;
+    ns:publicationYear "1959"^^xsd:gYear ;
+    ns:title "Asterix the Gaul" ;
+    rdfs:comment "The first adventure of the indomitable Gauls resisting Roman occupation with magic potion." .
+
+ns:Book_24 a ns:Book ;
+    rdfs:label "The Bald Soprano" ;
+    ns:description "A 'theatre of the absurd' play satirizing the banality of English middle-class life." ;
+    ns:goodReadRating 4.03 ;
+    ns:hasAuthor ns:Eugène_Ionesco ;
+    ns:hasGenre ns:Absurdist_Drama ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 24 ;
+    ns:publicationYear "1952"^^xsd:gYear ;
+    ns:title "The Bald Soprano" ;
+    rdfs:comment "A 'theatre of the absurd' play satirizing the banality of English middle-class life." .
+
+ns:Book_25 a ns:Book ;
+    rdfs:label "Three Essays on the Theory of Sexuality" ;
+    ns:description "Freud's groundbreaking work exploring the development of the sexual instinct." ;
+    ns:goodReadRating 3.64 ;
+    ns:hasAuthor ns:Sigmund_Freud ;
+    ns:hasGenre ns:Non_fiction,
+        ns:Psychology ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 25 ;
+    ns:publicationYear "1905"^^xsd:gYear ;
+    ns:title "Three Essays on the Theory of Sexuality" ;
+    rdfs:comment "Freud's groundbreaking work exploring the development of the sexual instinct." .
+
+ns:Book_26 a ns:Book ;
+    rdfs:label "The Abyss" ;
+    ns:description "A historical novel following a 16th-century doctor and alchemist seeking intellectual freedom." ;
+    ns:goodReadRating 4.03 ;
+    ns:hasAuthor ns:Marguerite_Yourcenar ;
+    ns:hasGenre ns:Historical_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 26 ;
+    ns:publicationYear "1968"^^xsd:gYear ;
+    ns:title "The Abyss" ;
+    rdfs:comment "A historical novel following a 16th-century doctor and alchemist seeking intellectual freedom." .
+
+ns:Book_27 a ns:Book ;
+    rdfs:label "Lolita" ;
+    ns:description "A controversial masterpiece about a man's obsessive infatuation with a twelve-year-old girl." ;
+    ns:goodReadRating 3.87 ;
+    ns:hasAuthor ns:Vladimir_Nabokov ;
+    ns:hasGenre ns:Literary_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 27 ;
+    ns:publicationYear "1955"^^xsd:gYear ;
+    ns:title "Lolita" ;
+    rdfs:comment "A controversial masterpiece about a man's obsessive infatuation with a twelve-year-old girl." .
+
+ns:Book_28 a ns:Book ;
+    rdfs:label "Ulysses" ;
+    ns:description "A complex modernist retelling of the Odyssey set during a single day in Dublin." ;
+    ns:goodReadRating 3.76 ;
+    ns:hasAuthor ns:James_Joyce ;
+    ns:hasGenre ns:Modernist_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 28 ;
+    ns:publicationYear "1922"^^xsd:gYear ;
+    ns:title "Ulysses" ;
+    rdfs:comment "A complex modernist retelling of the Odyssey set during a single day in Dublin." .
+
+ns:Book_29 a ns:Book ;
+    rdfs:label "The Tartar Steppe" ;
+    ns:description "A soldier spends his life at a remote fort waiting for an enemy that never comes." ;
+    ns:goodReadRating 4.21 ;
+    ns:hasAuthor ns:Dino_Buzzati ;
+    ns:hasGenre ns:Philosophical_Fiction ;
+    ns:inLanguage ns:Italian ;
+    ns:leMondeRank 29 ;
+    ns:publicationYear "1940"^^xsd:gYear ;
+    ns:title "The Tartar Steppe" ;
+    rdfs:comment "A soldier spends his life at a remote fort waiting for an enemy that never comes." .
+
+ns:Book_3 a ns:Book ;
+    rdfs:label "The Trial" ;
+    ns:description "A man is arrested and prosecuted by a remote, inaccessible authority for a crime never revealed." ;
+    ns:goodReadRating 3.94 ;
+    ns:hasAuthor ns:Franz_Kafka ;
+    ns:hasGenre ns:Philosophical_Fiction ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 3 ;
+    ns:publicationYear "1925"^^xsd:gYear ;
+    ns:title "The Trial" ;
+    rdfs:comment "A man is arrested and prosecuted by a remote, inaccessible authority for a crime never revealed." .
+
+ns:Book_30 a ns:Book ;
+    rdfs:label "The Counterfeiters" ;
+    ns:description "A multi-layered novel exploring authenticity through a group of young men and writers." ;
+    ns:goodReadRating 3.93 ;
+    ns:hasAuthor ns:André_Gide ;
+    ns:hasGenre ns:Modernist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 30 ;
+    ns:publicationYear "1925"^^xsd:gYear ;
+    ns:title "The Counterfeiters" ;
+    rdfs:comment "A multi-layered novel exploring authenticity through a group of young men and writers." .
+
+ns:Book_31 a ns:Book ;
+    rdfs:label "The Horseman on the Roof" ;
+    ns:description "A young Italian officer journeys through a cholera-stricken Provence in the 1830s." ;
+    ns:goodReadRating 3.86 ;
+    ns:hasAuthor ns:Jean_Giono ;
+    ns:hasGenre ns:Adventure,
+        ns:Historical_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 31 ;
+    ns:publicationYear "1951"^^xsd:gYear ;
+    ns:title "The Horseman on the Roof" ;
+    rdfs:comment "A young Italian officer journeys through a cholera-stricken Provence in the 1830s." .
+
+ns:Book_32 a ns:Book ;
+    rdfs:label "Belle du Seigneur" ;
+    ns:description "A monumental love story satirizing the League of Nations and obsessive passion." ;
+    ns:goodReadRating 4.08 ;
+    ns:hasAuthor ns:Albert_Cohen ;
+    ns:hasGenre ns:Romance,
+        ns:Satire ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 32 ;
+    ns:publicationYear "1968"^^xsd:gYear ;
+    ns:title "Belle du Seigneur" ;
+    rdfs:comment "A monumental love story satirizing the League of Nations and obsessive passion." .
+
+ns:Book_33 a ns:Book ;
+    rdfs:label "One Hundred Years of Solitude" ;
+    ns:description "The multi-generational story of the Buendía family in the magical town of Macondo." ;
+    ns:goodReadRating 4.12 ;
+    ns:hasAuthor ns:Gabriel_García_Márquez ;
+    ns:hasGenre ns:Magic_Realism ;
+    ns:inLanguage ns:Spanish ;
+    ns:leMondeRank 33 ;
+    ns:publicationYear "1967"^^xsd:gYear ;
+    ns:title "One Hundred Years of Solitude" ;
+    rdfs:comment "The multi-generational story of the Buendía family in the magical town of Macondo." .
+
+ns:Book_34 a ns:Book ;
+    rdfs:label "The Sound and the Fury" ;
+    ns:description "A complex narrative exploring the tragic downfall of the Compson family in the American South." ;
+    ns:goodReadRating 3.86 ;
+    ns:hasAuthor ns:William_Faulkner ;
+    ns:hasGenre ns:Modernist_Fiction,
+        ns:Southern_Gothic ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 34 ;
+    ns:publicationYear "1929"^^xsd:gYear ;
+    ns:title "The Sound and the Fury" ;
+    rdfs:comment "A complex narrative exploring the tragic downfall of the Compson family in the American South." .
+
+ns:Book_35 a ns:Book ;
+    rdfs:label "Thérèse Desqueyroux" ;
+    ns:description "A woman trapped in a stifling marriage attempts to poison her husband." ;
+    ns:goodReadRating 3.68 ;
+    ns:hasAuthor ns:François_Mauriac ;
+    ns:hasGenre ns:Psychological_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 35 ;
+    ns:publicationYear "1927"^^xsd:gYear ;
+    ns:title "Thérèse Desqueyroux" ;
+    rdfs:comment "A woman trapped in a stifling marriage attempts to poison her husband." .
+
+ns:Book_36 a ns:Book ;
+    rdfs:label "Zazie in the Metro" ;
+    ns:description "A mischievous girl visits Paris and experiences a surreal, linguistic-bending adventure." ;
+    ns:goodReadRating 3.65 ;
+    ns:hasAuthor ns:Raymond_Queneau ;
+    ns:hasGenre ns:Satire,
+        ns:Surrealist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 36 ;
+    ns:publicationYear "1959"^^xsd:gYear ;
+    ns:title "Zazie in the Metro" ;
+    rdfs:comment "A mischievous girl visits Paris and experiences a surreal, linguistic-bending adventure." .
+
+ns:Book_37 a ns:Book ;
+    rdfs:label "Confusion of Feelings" ;
+    ns:description "An elderly professor recalls a formative, intense emotional relationship from his youth." ;
+    ns:goodReadRating 4.04 ;
+    ns:hasAuthor ns:Stefan_Zweig ;
+    ns:hasGenre ns:Novella,
+        ns:Psychological_Fiction ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 37 ;
+    ns:publicationYear "1927"^^xsd:gYear ;
+    ns:title "Confusion of Feelings" ;
+    rdfs:comment "An elderly professor recalls a formative, intense emotional relationship from his youth." .
+
+ns:Book_38 a ns:Book ;
+    rdfs:label "Gone with the Wind" ;
+    ns:description "A sweeping epic of the American Civil War through the eyes of the headstrong Scarlett O'Hara." ;
+    ns:goodReadRating 4.31 ;
+    ns:hasAuthor ns:Margaret_Mitchell ;
+    ns:hasGenre ns:Historical_Romance ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 38 ;
+    ns:publicationYear "1936"^^xsd:gYear ;
+    ns:title "Gone with the Wind" ;
+    rdfs:comment "A sweeping epic of the American Civil War through the eyes of the headstrong Scarlett O'Hara." .
+
+ns:Book_39 a ns:Book ;
+    rdfs:label "Lady Chatterley's Lover" ;
+    ns:description "A controversial novel exploring the physical and emotional relationship between a noblewoman and a gamekeeper." ;
+    ns:goodReadRating 3.5 ;
+    ns:hasAuthor ns:D._H._Lawrence ;
+    ns:hasGenre ns:Erotica,
+        ns:Romance ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 39 ;
+    ns:publicationYear "1928"^^xsd:gYear ;
+    ns:title "Lady Chatterley's Lover" ;
+    rdfs:comment "A controversial novel exploring the physical and emotional relationship between a noblewoman and a gamekeeper." .
+
+ns:Book_4 a ns:Book ;
+    rdfs:label "The Little Prince" ;
+    ns:description "A stranded pilot meets a young prince from another planet who teaches him about love and life." ;
+    ns:goodReadRating 4.33 ;
+    ns:hasAuthor ns:Antoine_de_Saint_Exupéry ;
+    ns:hasGenre ns:Childrens_Fable ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 4 ;
+    ns:publicationYear "1943"^^xsd:gYear ;
+    ns:title "The Little Prince" ;
+    rdfs:comment "A stranded pilot meets a young prince from another planet who teaches him about love and life." .
+
+ns:Book_40 a ns:Book ;
+    rdfs:label "The Magic Mountain" ;
+    ns:description "A young man visits a Swiss sanatorium and becomes immersed in the philosophical debates of a dying Europe." ;
+    ns:goodReadRating 4.13 ;
+    ns:hasAuthor ns:Thomas_Mann ;
+    ns:hasGenre ns:Bildungsroman,
+        ns:Philosophical_Fiction ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 40 ;
+    ns:publicationYear "1924"^^xsd:gYear ;
+    ns:title "The Magic Mountain" ;
+    rdfs:comment "A young man visits a Swiss sanatorium and becomes immersed in the philosophical debates of a dying Europe." .
+
+ns:Book_41 a ns:Book ;
+    rdfs:label "Bonjour Tristesse" ;
+    ns:description "A cynical teenager spends a summer in the French Riviera and plots to sabotage her father’s romance." ;
+    ns:goodReadRating 3.74 ;
+    ns:hasAuthor ns:Françoise_Sagan ;
+    ns:hasGenre ns:Psychological_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 41 ;
+    ns:publicationYear "1954"^^xsd:gYear ;
+    ns:title "Bonjour Tristesse" ;
+    rdfs:comment "A cynical teenager spends a summer in the French Riviera and plots to sabotage her father’s romance." .
+
+ns:Book_42 a ns:Book ;
+    rdfs:label "Le Silence de la mer" ;
+    ns:description "A story of quiet resistance in occupied France, told through a family's silence toward a German officer." ;
+    ns:goodReadRating 3.85 ;
+    ns:hasAuthor ns:Vercors ;
+    ns:hasGenre ns:War_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 42 ;
+    ns:publicationYear "1942"^^xsd:gYear ;
+    ns:title "Le Silence de la mer" ;
+    rdfs:comment "A story of quiet resistance in occupied France, told through a family's silence toward a German officer." .
+
+ns:Book_43 a ns:Book ;
+    rdfs:label "Life: A User's Manual" ;
+    ns:description "An intricate jigsaw puzzle of stories revolving around the inhabitants of a Parisian apartment building." ;
+    ns:goodReadRating 4.18 ;
+    ns:hasAuthor ns:Georges_Perec ;
+    ns:hasGenre ns:Postmodern_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 43 ;
+    ns:publicationYear "1978"^^xsd:gYear ;
+    ns:title "Life: A User's Manual" ;
+    rdfs:comment "An intricate jigsaw puzzle of stories revolving around the inhabitants of a Parisian apartment building." .
+
+ns:Book_44 a ns:Book ;
+    rdfs:label "The Hound of the Baskervilles" ;
+    ns:description "Sherlock Holmes investigates a supernatural spectral hound on the moors of Devon." ;
+    ns:goodReadRating 4.14 ;
+    ns:hasAuthor ns:Arthur_Conan_Doyle ;
+    ns:hasGenre ns:Detective_Fiction,
+        ns:Mystery ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 44 ;
+    ns:publicationYear "1902"^^xsd:gYear ;
+    ns:title "The Hound of the Baskervilles" ;
+    rdfs:comment "Sherlock Holmes investigates a supernatural spectral hound on the moors of Devon." .
+
+ns:Book_45 a ns:Book ;
+    rdfs:label "Under the Sun of Satan" ;
+    ns:description "A priest struggles with his faith and encounters the devil in rural France." ;
+    ns:goodReadRating 3.59 ;
+    ns:hasAuthor ns:Georges_Bernanos ;
+    ns:hasGenre ns:Religious_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 45 ;
+    ns:publicationYear "1926"^^xsd:gYear ;
+    ns:title "Under the Sun of Satan" ;
+    rdfs:comment "A priest struggles with his faith and encounters the devil in rural France." .
+
+ns:Book_46 a ns:Book ;
+    rdfs:label "The Great Gatsby" ;
+    ns:description "A tragic tale of obsession, wealth, and the American Dream in the Roaring Twenties." ;
+    ns:goodReadRating 3.93 ;
+    ns:hasAuthor ns:F._Scott_Fitzgerald ;
+    ns:hasGenre ns:Jazz_Age,
+        ns:Literary_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 46 ;
+    ns:publicationYear "1925"^^xsd:gYear ;
+    ns:title "The Great Gatsby" ;
+    rdfs:comment "A tragic tale of obsession, wealth, and the American Dream in the Roaring Twenties." .
+
+ns:Book_47 a ns:Book ;
+    rdfs:label "The Joke" ;
+    ns:description "A young man's life is ruined by a sarcastic postcard in communist Czechoslovakia." ;
+    ns:goodReadRating 4.03 ;
+    ns:hasAuthor ns:Milan_Kundera ;
+    ns:hasGenre ns:Political_Fiction,
+        ns:Satire ;
+    ns:inLanguage ns:Czech ;
+    ns:leMondeRank 47 ;
+    ns:publicationYear "1967"^^xsd:gYear ;
+    ns:title "The Joke" ;
+    rdfs:comment "A young man's life is ruined by a sarcastic postcard in communist Czechoslovakia." .
+
+ns:Book_48 a ns:Book ;
+    rdfs:label "Contempt/A Ghost at Noon" ;
+    ns:description "A writer's marriage disintegrates during the production of a film in Italy." ;
+    ns:goodReadRating 3.95 ;
+    ns:hasAuthor ns:Alberto_Moravia ;
+    ns:hasGenre ns:Psychological_Fiction ;
+    ns:inLanguage ns:Italian ;
+    ns:leMondeRank 48 ;
+    ns:publicationYear "1954"^^xsd:gYear ;
+    ns:title "Contempt/A Ghost at Noon" ;
+    rdfs:comment "A writer's marriage disintegrates during the production of a film in Italy." .
+
+ns:Book_49 a ns:Book ;
+    rdfs:label "The Murder of Roger Ackroyd" ;
+    ns:description "A classic Hercule Poirot mystery famous for its revolutionary narrative twist." ;
+    ns:goodReadRating 4.26 ;
+    ns:hasAuthor ns:Agatha_Christie ;
+    ns:hasGenre ns:Detective_Fiction,
+        ns:Mystery ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 49 ;
+    ns:publicationYear "1926"^^xsd:gYear ;
+    ns:title "The Murder of Roger Ackroyd" ;
+    rdfs:comment "A classic Hercule Poirot mystery famous for its revolutionary narrative twist." .
+
+ns:Book_5 a ns:Book ;
+    rdfs:label "Man's Fate" ;
+    ns:description "Set during the 1927 Shanghai insurrection, exploring the human condition and political idealism." ;
+    ns:goodReadRating 3.74 ;
+    ns:hasAuthor ns:André_Malraux ;
+    ns:hasGenre ns:Historical_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 5 ;
+    ns:publicationYear "1933"^^xsd:gYear ;
+    ns:title "Man's Fate" ;
+    rdfs:comment "Set during the 1927 Shanghai insurrection, exploring the human condition and political idealism." .
+
+ns:Book_50 a ns:Book ;
+    rdfs:label "Nadja" ;
+    ns:description "A surrealist semi-autobiographical account of the author's relationship with a young woman." ;
+    ns:goodReadRating 3.53 ;
+    ns:hasAuthor ns:André_Breton ;
+    ns:hasGenre ns:Memoir,
+        ns:Surrealist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 50 ;
+    ns:publicationYear "1928"^^xsd:gYear ;
+    ns:title "Nadja" ;
+    rdfs:comment "A surrealist semi-autobiographical account of the author's relationship with a young woman." .
+
+ns:Book_51 a ns:Book ;
+    rdfs:label "Aurélien" ;
+    ns:description "A tragic love story set in interwar Paris, exploring disillusionment and beauty." ;
+    ns:goodReadRating 4.3 ;
+    ns:hasAuthor ns:Louis_Aragon ;
+    ns:hasGenre ns:Historical_Fiction,
+        ns:Romance ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 51 ;
+    ns:publicationYear "1944"^^xsd:gYear ;
+    ns:title "Aurélien" ;
+    rdfs:comment "A tragic love story set in interwar Paris, exploring disillusionment and beauty." .
+
+ns:Book_52 a ns:Book ;
+    rdfs:label "The Satin Slipper" ;
+    ns:description "A massive, poetic drama about Spanish conquistadors, destiny, and spiritual love." ;
+    ns:goodReadRating 3.54 ;
+    ns:hasAuthor ns:Paul_Claudel ;
+    ns:hasGenre ns:Drama ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 52 ;
+    ns:publicationYear "1929"^^xsd:gYear ;
+    ns:title "The Satin Slipper" ;
+    rdfs:comment "A massive, poetic drama about Spanish conquistadors, destiny, and spiritual love." .
+
+ns:Book_53 a ns:Book ;
+    rdfs:label "Six Characters in Search of an Author" ;
+    ns:description "Characters from an unfinished play appear at a rehearsal demanding their story be told." ;
+    ns:goodReadRating 3.83 ;
+    ns:hasAuthor ns:Luigi_Pirandello ;
+    ns:hasGenre ns:Metafiction,
+        ns:Play ;
+    ns:inLanguage ns:Italian ;
+    ns:leMondeRank 53 ;
+    ns:publicationYear "1921"^^xsd:gYear ;
+    ns:title "Six Characters in Search of an Author" ;
+    rdfs:comment "Characters from an unfinished play appear at a rehearsal demanding their story be told." .
+
+ns:Book_54 a ns:Book ;
+    rdfs:label "The Resistible Rise of Arturo Ui" ;
+    ns:description "A satirical allegory of Hitler's rise to power, set in the world of Chicago mobsters." ;
+    ns:goodReadRating 3.81 ;
+    ns:hasAuthor ns:Bertolt_Brecht ;
+    ns:hasGenre ns:Play,
+        ns:Satire ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 54 ;
+    ns:publicationYear "1941"^^xsd:gYear ;
+    ns:title "The Resistible Rise of Arturo Ui" ;
+    rdfs:comment "A satirical allegory of Hitler's rise to power, set in the world of Chicago mobsters." .
+
+ns:Book_55 a ns:Book ;
+    rdfs:label "Friday" ;
+    ns:description "A retelling of Robinson Crusoe that explores the psychological and philosophical impact of solitude." ;
+    ns:goodReadRating 3.67 ;
+    ns:hasAuthor ns:Michel_Tournier ;
+    ns:hasGenre ns:Philosophical_Fiction,
+        ns:Retelling ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 55 ;
+    ns:publicationYear "1967"^^xsd:gYear ;
+    ns:title "Friday" ;
+    rdfs:comment "A retelling of Robinson Crusoe that explores the psychological and philosophical impact of solitude." .
+
+ns:Book_56 a ns:Book ;
+    rdfs:label "The War of the Worlds" ;
+    ns:description "An influential sci-fi novel depicting an invasion of Earth by Martians." ;
+    ns:goodReadRating 3.83 ;
+    ns:hasAuthor ns:H._G._Wells ;
+    ns:hasGenre ns:Science_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 56 ;
+    ns:publicationYear "1898"^^xsd:gYear ;
+    ns:title "The War of the Worlds" ;
+    rdfs:comment "An influential sci-fi novel depicting an invasion of Earth by Martians." .
+
+ns:Book_57 a ns:Book ;
+    rdfs:label "If This Is a Man" ;
+    ns:description "A powerful memoir of survival and humanity in the Auschwitz concentration camp." ;
+    ns:goodReadRating 4.35 ;
+    ns:hasAuthor ns:Primo_Levi ;
+    ns:hasGenre ns:Holocaust,
+        ns:Memoir,
+        ns:Non_fiction ;
+    ns:inLanguage ns:Italian ;
+    ns:leMondeRank 57 ;
+    ns:publicationYear "1947"^^xsd:gYear ;
+    ns:title "If This Is a Man" ;
+    rdfs:comment "A powerful memoir of survival and humanity in the Auschwitz concentration camp." .
+
+ns:Book_58 a ns:Book ;
+    rdfs:label "The Lord of the Rings" ;
+    ns:description "An epic high-fantasy trilogy about the quest to destroy a powerful, corrupting ring." ;
+    ns:goodReadRating 4.54 ;
+    ns:hasAuthor ns:J.R.R._Tolkien ;
+    ns:hasGenre ns:Epic_Fantasy ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 58 ;
+    ns:publicationYear "1954"^^xsd:gYear ;
+    ns:title "The Lord of the Rings" ;
+    rdfs:comment "An epic high-fantasy trilogy about the quest to destroy a powerful, corrupting ring." .
+
+ns:Book_59 a ns:Book ;
+    rdfs:label "The Tendrils of the Vine" ;
+    ns:description "A collection of poetic essays and observations on nature and the senses." ;
+    ns:goodReadRating 3.4 ;
+    ns:hasAuthor ns:Colette ;
+    ns:hasGenre ns:Non_fiction,
+        ns:Short_Stories ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 59 ;
+    ns:publicationYear "1908"^^xsd:gYear ;
+    ns:title "The Tendrils of the Vine" ;
+    rdfs:comment "A collection of poetic essays and observations on nature and the senses." .
+
+ns:Book_6 a ns:Book ;
+    rdfs:label "Journey to the End of the Night" ;
+    ns:description "A cynical, misanthropic odyssey through WWI, colonial Africa, and urban America." ;
+    ns:goodReadRating 4.18 ;
+    ns:hasAuthor ns:Louis_Ferdinand_Céline ;
+    ns:hasGenre ns:Modernist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 6 ;
+    ns:publicationYear "1932"^^xsd:gYear ;
+    ns:title "Journey to the End of the Night" ;
+    rdfs:comment "A cynical, misanthropic odyssey through WWI, colonial Africa, and urban America." .
+
+ns:Book_60 a ns:Book ;
+    rdfs:label "Capital of Pain" ;
+    ns:description "A seminal collection of surrealist poetry exploring love, dreams, and suffering." ;
+    ns:goodReadRating 4.07 ;
+    ns:hasAuthor ns:Paul_Éluard ;
+    ns:hasGenre ns:Poetry ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 60 ;
+    ns:publicationYear "1926"^^xsd:gYear ;
+    ns:title "Capital of Pain" ;
+    rdfs:comment "A seminal collection of surrealist poetry exploring love, dreams, and suffering." .
+
+ns:Book_61 a ns:Book ;
+    rdfs:label "Martin Eden" ;
+    ns:description "A self-taught sailor struggles to become a successful writer to win the heart of a socialite." ;
+    ns:goodReadRating 4.48 ;
+    ns:hasAuthor ns:Jack_London ;
+    ns:hasGenre ns:Autobiographical_Fiction,
+        ns:Bildungsroman ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 61 ;
+    ns:publicationYear "1909"^^xsd:gYear ;
+    ns:title "Martin Eden" ;
+    rdfs:comment "A self-taught sailor struggles to become a successful writer to win the heart of a socialite." .
+
+ns:Book_62 a ns:Book ;
+    rdfs:label "The Ballad of the Salty Sea" ;
+    ns:description "The debut graphic novel featuring the enigmatic sailor-adventurer Corto Maltese." ;
+    ns:goodReadRating 4.23 ;
+    ns:hasAuthor ns:Hugo_Pratt ;
+    ns:hasGenre ns:Adventure,
+        ns:Graphic_Novel ;
+    ns:inLanguage ns:Italian ;
+    ns:leMondeRank 62 ;
+    ns:publicationYear "1967"^^xsd:gYear ;
+    ns:title "The Ballad of the Salty Sea" ;
+    rdfs:comment "The debut graphic novel featuring the enigmatic sailor-adventurer Corto Maltese." .
+
+ns:Book_63 a ns:Book ;
+    rdfs:label "Writing Degree Zero" ;
+    ns:description "An influential work of literary theory examining the political and social nature of language." ;
+    ns:goodReadRating 3.88 ;
+    ns:hasAuthor ns:Roland_Barthes ;
+    ns:hasGenre ns:Literary_Criticism,
+        ns:Non_fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 63 ;
+    ns:publicationYear "1953"^^xsd:gYear ;
+    ns:title "Writing Degree Zero" ;
+    rdfs:comment "An influential work of literary theory examining the political and social nature of language." .
+
+ns:Book_64 a ns:Book ;
+    rdfs:label "The Lost Honour of Katharina Blum" ;
+    ns:description "A woman's life is destroyed by the sensationalist tactics of a tabloid newspaper." ;
+    ns:goodReadRating 3.7 ;
+    ns:hasAuthor ns:Heinrich_Böll ;
+    ns:hasGenre ns:Political_Fiction,
+        ns:Satire ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 64 ;
+    ns:publicationYear "1974"^^xsd:gYear ;
+    ns:title "The Lost Honour of Katharina Blum" ;
+    rdfs:comment "A woman's life is destroyed by the sensationalist tactics of a tabloid newspaper." .
+
+ns:Book_65 a ns:Book ;
+    rdfs:label "The Opposing Shore" ;
+    ns:description "A soldier waits at a border for an ancient war to resume in a dreamlike, atmospheric landscape." ;
+    ns:goodReadRating 4.01 ;
+    ns:hasAuthor ns:Julien_Gracq ;
+    ns:hasGenre ns:Surrealist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 65 ;
+    ns:publicationYear "1951"^^xsd:gYear ;
+    ns:title "The Opposing Shore" ;
+    rdfs:comment "A soldier waits at a border for an ancient war to resume in a dreamlike, atmospheric landscape." .
+
+ns:Book_66 a ns:Book ;
+    rdfs:label "The Order of Things" ;
+    ns:description "A profound analysis of the history of the human sciences and the structures of knowledge." ;
+    ns:goodReadRating 4.12 ;
+    ns:hasAuthor ns:Michel_Foucault ;
+    ns:hasGenre ns:Non_fiction,
+        ns:Philosophy ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 66 ;
+    ns:publicationYear "1966"^^xsd:gYear ;
+    ns:title "The Order of Things" ;
+    rdfs:comment "A profound analysis of the history of the human sciences and the structures of knowledge." .
+
+ns:Book_67 a ns:Book ;
+    rdfs:label "On the Road" ;
+    ns:description "A defining work of the Beat Generation, chronicling cross-country travels across America." ;
+    ns:goodReadRating 3.61 ;
+    ns:hasAuthor ns:Jack_Kerouac ;
+    ns:hasGenre ns:Beat_Literature ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 67 ;
+    ns:publicationYear "1957"^^xsd:gYear ;
+    ns:title "On the Road" ;
+    rdfs:comment "A defining work of the Beat Generation, chronicling cross-country travels across America." .
+
+ns:Book_68 a ns:Book ;
+    rdfs:label "The Wonderful Adventures of Nils" ;
+    ns:description "A mischievous boy is shrunk to miniature size and travels Sweden with wild geese." ;
+    ns:goodReadRating 3.03 ;
+    ns:hasAuthor ns:Selma_Lagerlöf ;
+    ns:hasGenre ns:Childrens_Fantasy ;
+    ns:inLanguage ns:Swedish ;
+    ns:leMondeRank 68 ;
+    ns:publicationYear "1906"^^xsd:gYear ;
+    ns:title "The Wonderful Adventures of Nils" ;
+    rdfs:comment "A mischievous boy is shrunk to miniature size and travels Sweden with wild geese." .
+
+ns:Book_69 a ns:Book ;
+    rdfs:label "A Room of One's Own" ;
+    ns:description "An extended essay arguing for the necessity of financial and physical space for female writers." ;
+    ns:goodReadRating 4.22 ;
+    ns:hasAuthor ns:Virginia_Woolf ;
+    ns:hasGenre ns:Feminist_Essay,
+        ns:Non_fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 69 ;
+    ns:publicationYear "1929"^^xsd:gYear ;
+    ns:title "A Room of One's Own" ;
+    rdfs:comment "An extended essay arguing for the necessity of financial and physical space for female writers." .
+
+ns:Book_7 a ns:Book ;
+    rdfs:label "The Grapes of Wrath" ;
+    ns:description "An impoverished family of tenant farmers is driven from their Oklahoma home during the Great Depression." ;
+    ns:goodReadRating 4.03 ;
+    ns:hasAuthor ns:John_Steinbeck ;
+    ns:hasGenre ns:Social_Realism ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 7 ;
+    ns:publicationYear "1939"^^xsd:gYear ;
+    ns:title "The Grapes of Wrath" ;
+    rdfs:comment "An impoverished family of tenant farmers is driven from their Oklahoma home during the Great Depression." .
+
+ns:Book_70 a ns:Book ;
+    rdfs:label "The Martian Chronicles" ;
+    ns:description "A series of linked stories about the colonization of Mars and the displacement of its natives." ;
+    ns:goodReadRating 4.16 ;
+    ns:hasAuthor ns:Ray_Bradbury ;
+    ns:hasGenre ns:Science_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 70 ;
+    ns:publicationYear "1950"^^xsd:gYear ;
+    ns:title "The Martian Chronicles" ;
+    rdfs:comment "A series of linked stories about the colonization of Mars and the displacement of its natives." .
+
+ns:Book_71 a ns:Book ;
+    rdfs:label "The Ravishing of Lol Stein" ;
+    ns:description "A haunting psychological novel about a woman witnessing her fiancé's betrayal." ;
+    ns:goodReadRating 3.6 ;
+    ns:hasAuthor ns:Marguerite_Duras ;
+    ns:hasGenre ns:Nouveau_Roman,
+        ns:Psychological_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 71 ;
+    ns:publicationYear "1964"^^xsd:gYear ;
+    ns:title "The Ravishing of Lol Stein" ;
+    rdfs:comment "A haunting psychological novel about a woman witnessing her fiancé's betrayal." .
+
+ns:Book_72 a ns:Book ;
+    rdfs:label "The Interrogation" ;
+    ns:description "A man wanders a sun-drenched city, possibly a deserter or a madman, undergoing a mental trial." ;
+    ns:goodReadRating 3.26 ;
+    ns:hasAuthor ns:J._M._G._Le_Clézio ;
+    ns:hasGenre ns:Nouveau_Roman ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 72 ;
+    ns:publicationYear "1963"^^xsd:gYear ;
+    ns:title "The Interrogation" ;
+    rdfs:comment "A man wanders a sun-drenched city, possibly a deserter or a madman, undergoing a mental trial." .
+
+ns:Book_73 a ns:Book ;
+    rdfs:label "Tropisms" ;
+    ns:description "Experimental short prose pieces capturing the subtle, subconscious movements of the mind." ;
+    ns:goodReadRating 3.7 ;
+    ns:hasAuthor ns:Nathalie_Sarraute ;
+    ns:hasGenre ns:Experimental_Fiction,
+        ns:Nouveau_Roman ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 73 ;
+    ns:publicationYear "1939"^^xsd:gYear ;
+    ns:title "Tropisms" ;
+    rdfs:comment "Experimental short prose pieces capturing the subtle, subconscious movements of the mind." .
+
+ns:Book_74 a ns:Book ;
+    rdfs:label "Journal, 1887–1910" ;
+    ns:description "Journal (Renard),\"The witty and often bitter personal diaries of a significant French playwright and novelist." ;
+    ns:goodReadRating 4.15 ;
+    ns:hasAuthor ns:Jules_Renard ;
+    ns:hasGenre ns:Diary,
+        ns:Non_fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 74 ;
+    ns:publicationYear "1925"^^xsd:gYear ;
+    ns:title "Journal, 1887–1910" ;
+    rdfs:comment "Journal (Renard),\"The witty and often bitter personal diaries of a significant French playwright and novelist." .
+
+ns:Book_75 a ns:Book ;
+    rdfs:label "Lord Jim" ;
+    ns:description "A sailor seeks redemption after abandoning a ship he believed was sinking." ;
+    ns:goodReadRating 3.61 ;
+    ns:hasAuthor ns:Joseph_Conrad ;
+    ns:hasGenre ns:Adventure,
+        ns:Psychological_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 75 ;
+    ns:publicationYear "1900"^^xsd:gYear ;
+    ns:title "Lord Jim" ;
+    rdfs:comment "A sailor seeks redemption after abandoning a ship he believed was sinking." .
+
+ns:Book_76 a ns:Book ;
+    rdfs:label "Écrits" ;
+    ns:description "A complex collection of essays and lectures by the influential psychoanalyst Jacques Lacan." ;
+    ns:goodReadRating 4.03 ;
+    ns:hasAuthor ns:Jacques_Lacan ;
+    ns:hasGenre ns:Non_fiction,
+        ns:Psychoanalysis ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 76 ;
+    ns:publicationYear "1966"^^xsd:gYear ;
+    ns:title "Écrits" ;
+    rdfs:comment "A complex collection of essays and lectures by the influential psychoanalyst Jacques Lacan." .
+
+ns:Book_77 a ns:Book ;
+    rdfs:label "The Theatre and Its Double" ;
+    ns:description "A manifesto calling for a 'Theatre of Cruelty' to shock and transform the audience." ;
+    ns:goodReadRating 4.14 ;
+    ns:hasAuthor ns:Antonin_Artaud ;
+    ns:hasGenre ns:Non_fiction,
+        ns:Theatre_Theory ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 77 ;
+    ns:publicationYear "1938"^^xsd:gYear ;
+    ns:title "The Theatre and Its Double" ;
+    rdfs:comment "A manifesto calling for a 'Theatre of Cruelty' to shock and transform the audience." .
+
+ns:Book_78 a ns:Book ;
+    rdfs:label "Manhattan Transfer" ;
+    ns:description "A kaleidoscopic novel capturing the chaotic energy and overlapping lives of New York City." ;
+    ns:goodReadRating 3.64 ;
+    ns:hasAuthor ns:John_Dos_Passos ;
+    ns:hasGenre ns:Modernist_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 78 ;
+    ns:publicationYear "1925"^^xsd:gYear ;
+    ns:title "Manhattan Transfer" ;
+    rdfs:comment "A kaleidoscopic novel capturing the chaotic energy and overlapping lives of New York City." .
+
+ns:Book_79 a ns:Book ;
+    rdfs:label "Ficciones" ;
+    ns:description "A collection of short stories famous for their mathematical, philosophical, and labyrinthine themes." ;
+    ns:goodReadRating 4.4 ;
+    ns:hasAuthor ns:Jorge_Luis_Borges ;
+    ns:hasGenre ns:Magic_Realism,
+        ns:Philosophical_Short_Stories ;
+    ns:inLanguage ns:Spanish ;
+    ns:leMondeRank 79 ;
+    ns:publicationYear "1944"^^xsd:gYear ;
+    ns:title "Ficciones" ;
+    rdfs:comment "A collection of short stories famous for their mathematical, philosophical, and labyrinthine themes." .
+
+ns:Book_8 a ns:Book ;
+    rdfs:label "For Whom the Bell Tolls" ;
+    ns:description "An American volunteer in the Spanish Civil War is tasked with blowing up a bridge." ;
+    ns:goodReadRating 3.99 ;
+    ns:hasAuthor ns:Ernest_Hemingway ;
+    ns:hasGenre ns:War_Novel ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 8 ;
+    ns:publicationYear "1940"^^xsd:gYear ;
+    ns:title "For Whom the Bell Tolls" ;
+    rdfs:comment "An American volunteer in the Spanish Civil War is tasked with blowing up a bridge." .
+
+ns:Book_80 a ns:Book ;
+    rdfs:label "Moravagine" ;
+    ns:description "A dark, frenetic novel about a professional killer and his companion traveling the world." ;
+    ns:goodReadRating 3.81 ;
+    ns:hasAuthor ns:Blaise_Cendrars ;
+    ns:hasGenre ns:Modernist_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 80 ;
+    ns:publicationYear "1926"^^xsd:gYear ;
+    ns:title "Moravagine" ;
+    rdfs:comment "A dark, frenetic novel about a professional killer and his companion traveling the world." .
+
+ns:Book_81 a ns:Book ;
+    rdfs:label "The General of the Dead Army" ;
+    ns:description "An Italian general travels to Albania to recover the remains of fallen soldiers." ;
+    ns:goodReadRating 4.02 ;
+    ns:hasAuthor ns:Ismail_Kadare ;
+    ns:hasGenre ns:Historical_Fiction ;
+    ns:inLanguage ns:Albanian ;
+    ns:leMondeRank 81 ;
+    ns:publicationYear "1963"^^xsd:gYear ;
+    ns:title "The General of the Dead Army" ;
+    rdfs:comment "An Italian general travels to Albania to recover the remains of fallen soldiers." .
+
+ns:Book_82 a ns:Book ;
+    rdfs:label "Sophie's Choice" ;
+    ns:description "A young writer befriends a Holocaust survivor who harbors a devastating secret." ;
+    ns:goodReadRating 4.17 ;
+    ns:hasAuthor ns:William_Styron ;
+    ns:hasGenre ns:Historical_Fiction,
+        ns:Psychological_Drama ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 82 ;
+    ns:publicationYear "1979"^^xsd:gYear ;
+    ns:title "Sophie's Choice" ;
+    rdfs:comment "A young writer befriends a Holocaust survivor who harbors a devastating secret." .
+
+ns:Book_83 a ns:Book ;
+    rdfs:label "Gypsy Ballads" ;
+    ns:description "A vibrant collection of poetry celebrating and mourning the Gypsy culture of Andalusia." ;
+    ns:goodReadRating 3.0 ;
+    ns:hasAuthor ns:Federico_García_Lorca ;
+    ns:hasGenre ns:Poetry ;
+    ns:inLanguage ns:Spanish ;
+    ns:leMondeRank 83 ;
+    ns:publicationYear "1928"^^xsd:gYear ;
+    ns:title "Gypsy Ballads" ;
+    rdfs:comment "A vibrant collection of poetry celebrating and mourning the Gypsy culture of Andalusia." .
+
+ns:Book_84 a ns:Book ;
+    rdfs:label "The Strange Case of Peter the Lett" ;
+    ns:description "The first Inspector Maigret novel, introducing the famous detective and his methods." ;
+    ns:goodReadRating 3.47 ;
+    ns:hasAuthor ns:Georges_Simenon ;
+    ns:hasGenre ns:Detective_Fiction,
+        ns:Mystery ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 84 ;
+    ns:publicationYear "1931"^^xsd:gYear ;
+    ns:title "The Strange Case of Peter the Lett" ;
+    rdfs:comment "The first Inspector Maigret novel, introducing the famous detective and his methods." .
+
+ns:Book_85 a ns:Book ;
+    rdfs:label "Our Lady of the Flowers" ;
+    ns:description "A poetic, transgressive novel written in prison, exploring the lives of outcasts." ;
+    ns:goodReadRating 4.01 ;
+    ns:hasAuthor ns:Jean_Genet ;
+    ns:hasGenre ns:Transgressive_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 85 ;
+    ns:publicationYear "1944"^^xsd:gYear ;
+    ns:title "Our Lady of the Flowers" ;
+    rdfs:comment "A poetic, transgressive novel written in prison, exploring the lives of outcasts." .
+
+ns:Book_86 a ns:Book ;
+    rdfs:label "The Man Without Qualities" ;
+    ns:description "A massive, unfinished novel analyzing the intellectual climate of the waning Austro-Hungarian Empire." ;
+    ns:goodReadRating 4.19 ;
+    ns:hasAuthor ns:Robert_Musil ;
+    ns:hasGenre ns:Modernism,
+        ns:Philosophical_Fiction ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 86 ;
+    ns:publicationYear "1930"^^xsd:gYear ;
+    ns:title "The Man Without Qualities" ;
+    rdfs:comment "A massive, unfinished novel analyzing the intellectual climate of the waning Austro-Hungarian Empire." .
+
+ns:Book_87 a ns:Book ;
+    rdfs:label "Furor and Mystery" ;
+    ns:description "A collection of powerful poetry written by a leading figure of the French Resistance." ;
+    ns:goodReadRating 4.13 ;
+    ns:hasAuthor ns:René_Char ;
+    ns:hasGenre ns:Poetry ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 87 ;
+    ns:publicationYear "1948"^^xsd:gYear ;
+    ns:title "Furor and Mystery" ;
+    rdfs:comment "A collection of powerful poetry written by a leading figure of the French Resistance." .
+
+ns:Book_88 a ns:Book ;
+    rdfs:label "The Catcher in the Rye" ;
+    ns:description "The quintessential novel of teenage angst and rebellion, featuring Holden Caulfield." ;
+    ns:goodReadRating 3.8 ;
+    ns:hasAuthor ns:J._D._Salinger ;
+    ns:hasGenre ns:Coming_of_age_Fiction ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 88 ;
+    ns:publicationYear "1951"^^xsd:gYear ;
+    ns:title "The Catcher in the Rye" ;
+    rdfs:comment "The quintessential novel of teenage angst and rebellion, featuring Holden Caulfield." .
+
+ns:Book_89 a ns:Book ;
+    rdfs:label "No Orchids For Miss Blandish" ;
+    ns:description "A gritty, controversial noir thriller about a kidnapping gone wrong." ;
+    ns:goodReadRating 3.77 ;
+    ns:hasAuthor ns:James_Hadley_Chase ;
+    ns:hasGenre ns:Crime_Fiction,
+        ns:Hardboiled ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 89 ;
+    ns:publicationYear "1939"^^xsd:gYear ;
+    ns:title "No Orchids For Miss Blandish" ;
+    rdfs:comment "A gritty, controversial noir thriller about a kidnapping gone wrong." .
+
+ns:Book_9 a ns:Book ;
+    rdfs:label "Le Grand Meaulnes" ;
+    ns:description "A haunting tale of lost love and the search for a mysterious, vanished estate." ;
+    ns:goodReadRating 3.72 ;
+    ns:hasAuthor ns:Alain_Fournier ;
+    ns:hasGenre ns:Coming_of_age,
+        ns:Romance ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 9 ;
+    ns:publicationYear "1913"^^xsd:gYear ;
+    ns:title "Le Grand Meaulnes" ;
+    rdfs:comment "A haunting tale of lost love and the search for a mysterious, vanished estate." .
+
+ns:Book_90 a ns:Book ;
+    rdfs:label "Blake and Mortimer" ;
+    ns:description "The first adventure of the British duo, focusing on global threats and high-tech mystery." ;
+    ns:goodReadRating 3.99 ;
+    ns:hasAuthor ns:Edgar_P._Jacobs ;
+    ns:hasGenre ns:Graphic_Novel,
+        ns:Science_Fiction ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 90 ;
+    ns:publicationYear "1950"^^xsd:gYear ;
+    ns:title "Blake and Mortimer" ;
+    rdfs:comment "The first adventure of the British duo, focusing on global threats and high-tech mystery." .
+
+ns:Book_91 a ns:Book ;
+    rdfs:label "The Notebooks of Malte Laurids Brigge" ;
+    ns:description "A semi-autobiographical novel exploring urban alienation, poverty, and death in Paris." ;
+    ns:goodReadRating 3.0 ;
+    ns:hasAuthor ns:Rainer_Maria_Rilke ;
+    ns:hasGenre ns:Modernist_Novel ;
+    ns:inLanguage ns:German ;
+    ns:leMondeRank 91 ;
+    ns:publicationYear "1910"^^xsd:gYear ;
+    ns:title "The Notebooks of Malte Laurids Brigge" ;
+    rdfs:comment "A semi-autobiographical novel exploring urban alienation, poverty, and death in Paris." .
+
+ns:Book_92 a ns:Book ;
+    rdfs:label "Second Thoughts" ;
+    ns:description "A pioneering 'nouveau roman' following a man's train journey and his shifting perceptions." ;
+    ns:goodReadRating 3.57 ;
+    ns:hasAuthor ns:Michel_Butor ;
+    ns:hasGenre ns:Nouveau_Roman ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 92 ;
+    ns:publicationYear "1957"^^xsd:gYear ;
+    ns:title "Second Thoughts" ;
+    rdfs:comment "A pioneering 'nouveau roman' following a man's train journey and his shifting perceptions." .
+
+ns:Book_93 a ns:Book ;
+    rdfs:label "The Origins of Totalitarianism" ;
+    ns:description "A seminal political study of the roots of Nazi Germany and Stalinist Russia." ;
+    ns:goodReadRating 4.3 ;
+    ns:hasAuthor ns:Hannah_Arendt ;
+    ns:hasGenre ns:Non_fiction,
+        ns:Political_Philosophy ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 93 ;
+    ns:publicationYear "1951"^^xsd:gYear ;
+    ns:title "The Origins of Totalitarianism" ;
+    rdfs:comment "A seminal political study of the roots of Nazi Germany and Stalinist Russia." .
+
+ns:Book_94 a ns:Book ;
+    rdfs:label "The Master and Margarita" ;
+    ns:description "A supernatural satire in which the devil visits atheistic Soviet Moscow." ;
+    ns:goodReadRating 4.28 ;
+    ns:hasAuthor ns:Mikhail_Bulgakov ;
+    ns:hasGenre ns:Magic_Realism,
+        ns:Satirical_Fantasy ;
+    ns:inLanguage ns:Russian ;
+    ns:leMondeRank 94 ;
+    ns:publicationYear "1967"^^xsd:gYear ;
+    ns:title "The Master and Margarita" ;
+    rdfs:comment "A supernatural satire in which the devil visits atheistic Soviet Moscow." .
+
+ns:Book_95 a ns:Book ;
+    rdfs:label "The Rosy Crucifixion" ;
+    ns:description "A fictionalized trilogy detailing the author's early struggles as a writer in New York." ;
+    ns:goodReadRating 4.0 ;
+    ns:hasAuthor ns:Henry_Miller ;
+    ns:hasGenre ns:Autobiographical_Fiction,
+        ns:Erotica ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 95 ;
+    ns:publicationYear "1949"^^xsd:gYear ;
+    ns:title "The Rosy Crucifixion" ;
+    rdfs:comment "A fictionalized trilogy detailing the author's early struggles as a writer in New York." .
+
+ns:Book_96 a ns:Book ;
+    rdfs:label "The Big Sleep" ;
+    ns:description "The first Philip Marlowe novel, a classic of the hardboiled detective genre." ;
+    ns:goodReadRating 3.94 ;
+    ns:hasAuthor ns:Raymond_Chandler ;
+    ns:hasGenre ns:Detective_Fiction,
+        ns:Hardboiled ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 96 ;
+    ns:publicationYear "1939"^^xsd:gYear ;
+    ns:title "The Big Sleep" ;
+    rdfs:comment "The first Philip Marlowe novel, a classic of the hardboiled detective genre." .
+
+ns:Book_97 a ns:Book ;
+    rdfs:label "Amers" ;
+    ns:description "A majestic, expansive poem celebrating the sea as a source of life and renewal." ;
+    ns:goodReadRating 3.71 ;
+    ns:hasAuthor ns:Saint_John_Perse ;
+    ns:hasGenre ns:Poetry ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 97 ;
+    ns:publicationYear "1957"^^xsd:gYear ;
+    ns:title "Amers" ;
+    rdfs:comment "A majestic, expansive poem celebrating the sea as a source of life and renewal." .
+
+ns:Book_98 a ns:Book ;
+    rdfs:label "Gaston" ;
+    ns:description "A comic strip featuring an incredibly lazy and accident-prone office assistant." ;
+    ns:goodReadRating 4.12 ;
+    ns:hasAuthor ns:André_Franquin ;
+    ns:hasGenre ns:Comedy,
+        ns:Graphic_Novel ;
+    ns:inLanguage ns:French ;
+    ns:leMondeRank 98 ;
+    ns:publicationYear "1957"^^xsd:gYear ;
+    ns:title "Gaston" ;
+    rdfs:comment "A comic strip featuring an incredibly lazy and accident-prone office assistant." .
+
+ns:Book_99 a ns:Book ;
+    rdfs:label "Under the Volcano" ;
+    ns:description "The story of the final, alcohol-soaked day of a British consul in Mexico." ;
+    ns:goodReadRating 3.76 ;
+    ns:hasAuthor ns:Malcolm_Lowry ;
+    ns:hasGenre ns:Modernist_Fiction,
+        ns:Tragedy ;
+    ns:inLanguage ns:English ;
+    ns:leMondeRank 99 ;
+    ns:publicationYear "1947"^^xsd:gYear ;
+    ns:title "Under the Volcano" ;
+    rdfs:comment "The story of the final, alcohol-soaked day of a British consul in Mexico." .
+
+ns:Agatha_Christie a ns:Author ;
+    rdfs:label "Agatha Christie" .
+
+ns:Alain_Fournier a ns:Author ;
+    rdfs:label "Alain-Fournier" .
+
+ns:Albanian a ns:Language ;
+    rdfs:label "Albanian" .
+
+ns:Albert_Camus a ns:Author ;
+    rdfs:label "Albert Camus" .
+
+ns:Albert_Cohen a ns:Author ;
+    rdfs:label "Albert Cohen" .
+
+ns:Albert_Uderzo a ns:Author ;
+    rdfs:label "Albert Uderzo" .
+
+ns:Alberto_Moravia a ns:Author ;
+    rdfs:label "Alberto Moravia" .
+
+ns:Aldous_Huxley a ns:Author ;
+    rdfs:label "Aldous Huxley" .
+
+ns:Aleksandr_Solzhenitsyn a ns:Author ;
+    rdfs:label "Aleksandr Solzhenitsyn" .
+
+ns:André_Breton a ns:Author ;
+    rdfs:label "André Breton" .
+
+ns:André_Franquin a ns:Author ;
+    rdfs:label "André Franquin" .
+
+ns:André_Gide a ns:Author ;
+    rdfs:label "André Gide" .
+
+ns:André_Malraux a ns:Author ;
+    rdfs:label "André Malraux" .
+
+ns:Anne_Frank a ns:Author ;
+    rdfs:label "Anne Frank" .
+
+ns:Anthropology a ns:Genre ;
+    rdfs:label "Anthropology" .
+
+ns:Antoine_de_Saint_Exupéry a ns:Author ;
+    rdfs:label "Antoine de Saint-Exupéry" .
+
+ns:Antonin_Artaud a ns:Author ;
+    rdfs:label "Antonin Artaud" .
+
+ns:Arthur_Conan_Doyle a ns:Author ;
+    rdfs:label "Arthur Conan Doyle" .
+
+ns:Autobiography a ns:Genre ;
+    rdfs:label "Autobiography" .
+
+ns:Beat_Literature a ns:Genre ;
+    rdfs:label "Beat Literature" .
+
+ns:Bertolt_Brecht a ns:Author ;
+    rdfs:label "Bertolt Brecht" .
+
+ns:Blaise_Cendrars a ns:Author ;
+    rdfs:label "Blaise Cendrars" .
+
+ns:Boris_Vian a ns:Author ;
+    rdfs:label "Boris Vian" .
+
+ns:Childrens_Fable a ns:Genre ;
+    rdfs:label "Children's Fable" .
+
+ns:Childrens_Fantasy a ns:Genre ;
+    rdfs:label "Children's Fantasy" .
+
+ns:Claude_Lévi_Strauss a ns:Author ;
+    rdfs:label "Claude Lévi-Strauss" .
+
+ns:Colette a ns:Author ;
+    rdfs:label "Colette" .
+
+ns:Coming_of_age a ns:Genre ;
+    rdfs:label "Coming-of-age" .
+
+ns:Coming_of_age_Fiction a ns:Genre ;
+    rdfs:label "Coming-of-age Fiction" .
+
+ns:Crime_Fiction a ns:Genre ;
+    rdfs:label "Crime Fiction" .
+
+ns:Czech a ns:Language ;
+    rdfs:label "Czech" .
+
+ns:D._H._Lawrence a ns:Author ;
+    rdfs:label "D. H. Lawrence" .
+
+ns:Diary a ns:Genre ;
+    rdfs:label "Diary" .
+
+ns:Dino_Buzzati a ns:Author ;
+    rdfs:label "Dino Buzzati" .
+
+ns:Drama a ns:Genre ;
+    rdfs:label "Drama" .
+
+ns:Dutch a ns:Language ;
+    rdfs:label "Dutch" .
+
+ns:Edgar_P._Jacobs a ns:Author ;
+    rdfs:label "Edgar P. Jacobs" .
+
+ns:Epic_Fantasy a ns:Genre ;
+    rdfs:label "Epic Fantasy" .
+
+ns:Ernest_Hemingway a ns:Author ;
+    rdfs:label "Ernest Hemingway" .
+
+ns:Eugène_Ionesco a ns:Author ;
+    rdfs:label "Eugène Ionesco" .
+
+ns:Existentialist_Fiction a ns:Genre ;
+    rdfs:label "Existentialist Fiction" .
+
+ns:Existentialist_Philosophy a ns:Genre ;
+    rdfs:label "Existentialist Philosophy" .
+
+ns:Experimental_Fiction a ns:Genre ;
+    rdfs:label "Experimental Fiction" .
+
+ns:F._Scott_Fitzgerald a ns:Author ;
+    rdfs:label "F. Scott Fitzgerald" .
+
+ns:Federico_García_Lorca a ns:Author ;
+    rdfs:label "Federico García Lorca" .
+
+ns:Feminist_Essay a ns:Genre ;
+    rdfs:label "Feminist Essay" .
+
+ns:Feminist_Philosophy a ns:Genre ;
+    rdfs:label "Feminist Philosophy" .
+
+ns:Franz_Kafka a ns:Author ;
+    rdfs:label "Franz Kafka" .
+
+ns:François_Mauriac a ns:Author ;
+    rdfs:label "François Mauriac" .
+
+ns:Françoise_Sagan a ns:Author ;
+    rdfs:label "Françoise Sagan" .
+
+ns:Gabriel_García_Márquez a ns:Author ;
+    rdfs:label "Gabriel García Márquez" .
+
+ns:George_Orwell a ns:Author ;
+    rdfs:label "George Orwell" .
+
+ns:Georges_Bernanos a ns:Author ;
+    rdfs:label "Georges Bernanos" .
+
+ns:Georges_Perec a ns:Author ;
+    rdfs:label "Georges Perec" .
+
+ns:Georges_Simenon a ns:Author ;
+    rdfs:label "Georges Simenon" .
+
+ns:Guillaume_Apollinaire a ns:Author ;
+    rdfs:label "Guillaume Apollinaire" .
+
+ns:H._G._Wells a ns:Author ;
+    rdfs:label "H. G. Wells" .
+
+ns:Hannah_Arendt a ns:Author ;
+    rdfs:label "Hannah Arendt" .
+
+ns:Heinrich_Böll a ns:Author ;
+    rdfs:label "Heinrich Böll" .
+
+ns:Henry_Miller a ns:Author ;
+    rdfs:label "Henry Miller" .
+
+ns:Hergé a ns:Author ;
+    rdfs:label "Hergé" .
+
+ns:Historical_Mystery a ns:Genre ;
+    rdfs:label "Historical Mystery" .
+
+ns:Historical_Romance a ns:Genre ;
+    rdfs:label "Historical Romance" .
+
+ns:History a ns:Genre ;
+    rdfs:label "History" .
+
+ns:Holocaust a ns:Genre ;
+    rdfs:label "Holocaust" .
+
+ns:Hugo_Pratt a ns:Author ;
+    rdfs:label "Hugo Pratt" .
+
+ns:Ismail_Kadare a ns:Author ;
+    rdfs:label "Ismail Kadare" .
+
+ns:J.R.R._Tolkien a ns:Author ;
+    rdfs:label "J.R.R. Tolkien" .
+
+ns:J._D._Salinger a ns:Author ;
+    rdfs:label "J. D. Salinger" .
+
+ns:J._M._G._Le_Clézio a ns:Author ;
+    rdfs:label "J. M. G. Le Clézio" .
+
+ns:Jack_Kerouac a ns:Author ;
+    rdfs:label "Jack Kerouac" .
+
+ns:Jack_London a ns:Author ;
+    rdfs:label "Jack London" .
+
+ns:Jacques_Lacan a ns:Author ;
+    rdfs:label "Jacques Lacan" .
+
+ns:Jacques_Prévert a ns:Author ;
+    rdfs:label "Jacques Prévert" .
+
+ns:James_Hadley_Chase a ns:Author ;
+    rdfs:label "James Hadley Chase" .
+
+ns:James_Joyce a ns:Author ;
+    rdfs:label "James Joyce" .
+
+ns:Jazz_Age a ns:Genre ;
+    rdfs:label "Jazz Age" .
+
+ns:Jean_Genet a ns:Author ;
+    rdfs:label "Jean Genet" .
+
+ns:Jean_Giono a ns:Author ;
+    rdfs:label "Jean Giono" .
+
+ns:Jean_Paul_Sartre a ns:Author ;
+    rdfs:label "Jean-Paul Sartre" .
+
+ns:John_Dos_Passos a ns:Author ;
+    rdfs:label "John Dos Passos" .
+
+ns:John_Steinbeck a ns:Author ;
+    rdfs:label "John Steinbeck" .
+
+ns:Jorge_Luis_Borges a ns:Author ;
+    rdfs:label "Jorge Luis Borges" .
+
+ns:Joseph_Conrad a ns:Author ;
+    rdfs:label "Joseph Conrad" .
+
+ns:Jules_Renard a ns:Author ;
+    rdfs:label "Jules Renard" .
+
+ns:Julien_Gracq a ns:Author ;
+    rdfs:label "Julien Gracq" .
+
+ns:Literary_Criticism a ns:Genre ;
+    rdfs:label "Literary Criticism" .
+
+ns:Louis_Aragon a ns:Author ;
+    rdfs:label "Louis Aragon" .
+
+ns:Louis_Ferdinand_Céline a ns:Author ;
+    rdfs:label "Louis-Ferdinand Céline" .
+
+ns:Luigi_Pirandello a ns:Author ;
+    rdfs:label "Luigi Pirandello" .
+
+ns:Malcolm_Lowry a ns:Author ;
+    rdfs:label "Malcolm Lowry" .
+
+ns:Marcel_Proust a ns:Author ;
+    rdfs:label "Marcel Proust" .
+
+ns:Margaret_Mitchell a ns:Author ;
+    rdfs:label "Margaret Mitchell" .
+
+ns:Marguerite_Duras a ns:Author ;
+    rdfs:label "Marguerite Duras" .
+
+ns:Marguerite_Yourcenar a ns:Author ;
+    rdfs:label "Marguerite Yourcenar" .
+
+ns:Metafiction a ns:Genre ;
+    rdfs:label "Metafiction" .
+
+ns:Michel_Butor a ns:Author ;
+    rdfs:label "Michel Butor" .
+
+ns:Michel_Foucault a ns:Author ;
+    rdfs:label "Michel Foucault" .
+
+ns:Michel_Tournier a ns:Author ;
+    rdfs:label "Michel Tournier" .
+
+ns:Mikhail_Bulgakov a ns:Author ;
+    rdfs:label "Mikhail Bulgakov" .
+
+ns:Milan_Kundera a ns:Author ;
+    rdfs:label "Milan Kundera" .
+
+ns:Modernism a ns:Genre ;
+    rdfs:label "Modernism" .
+
+ns:Modernist_Literature a ns:Genre ;
+    rdfs:label "Modernist Literature" .
+
+ns:Modernist_Novel a ns:Genre ;
+    rdfs:label "Modernist Novel" .
+
+ns:Nathalie_Sarraute a ns:Author ;
+    rdfs:label "Nathalie Sarraute" .
+
+ns:Novella a ns:Genre ;
+    rdfs:label "Novella" .
+
+ns:Paul_Claudel a ns:Author ;
+    rdfs:label "Paul Claudel" .
+
+ns:Paul_Éluard a ns:Author ;
+    rdfs:label "Paul Éluard" .
+
+ns:Philosophical_Short_Stories a ns:Genre ;
+    rdfs:label "Philosophical Short Stories" .
+
+ns:Philosophy a ns:Genre ;
+    rdfs:label "Philosophy" .
+
+ns:Political_Philosophy a ns:Genre ;
+    rdfs:label "Political Philosophy" .
+
+ns:Postcolonial_Fiction a ns:Genre ;
+    rdfs:label "Postcolonial Fiction" .
+
+ns:Primo_Levi a ns:Author ;
+    rdfs:label "Primo Levi" .
+
+ns:Psychoanalysis a ns:Genre ;
+    rdfs:label "Psychoanalysis" .
+
+ns:Psychological_Drama a ns:Genre ;
+    rdfs:label "Psychological Drama" .
+
+ns:Psychology a ns:Genre ;
+    rdfs:label "Psychology" .
+
+ns:Rainer_Maria_Rilke a ns:Author ;
+    rdfs:label "Rainer Maria Rilke" .
+
+ns:Ray_Bradbury a ns:Author ;
+    rdfs:label "Ray Bradbury" .
+
+ns:Raymond_Chandler a ns:Author ;
+    rdfs:label "Raymond Chandler" .
+
+ns:Raymond_Queneau a ns:Author ;
+    rdfs:label "Raymond Queneau" .
+
+ns:Religious_Fiction a ns:Genre ;
+    rdfs:label "Religious Fiction" .
+
+ns:René_Char a ns:Author ;
+    rdfs:label "René Char" .
+
+ns:René_Goscinny a ns:Author ;
+    rdfs:label "René Goscinny" .
+
+ns:Retelling a ns:Genre ;
+    rdfs:label "Retelling" .
+
+ns:Robert_Musil a ns:Author ;
+    rdfs:label "Robert Musil" .
+
+ns:Roland_Barthes a ns:Author ;
+    rdfs:label "Roland Barthes" .
+
+ns:Saint_John_Perse a ns:Author ;
+    rdfs:label "Saint-John Perse" .
+
+ns:Salman_Rushdie a ns:Author ;
+    rdfs:label "Salman Rushdie" .
+
+ns:Samuel_Beckett a ns:Author ;
+    rdfs:label "Samuel Beckett" .
+
+ns:Satirical_Fantasy a ns:Genre ;
+    rdfs:label "Satirical Fantasy" .
+
+ns:Selma_Lagerlöf a ns:Author ;
+    rdfs:label "Selma Lagerlöf" .
+
+ns:Short_Stories a ns:Genre ;
+    rdfs:label "Short Stories" .
+
+ns:Sigmund_Freud a ns:Author ;
+    rdfs:label "Sigmund Freud" .
+
+ns:Simone_de_Beauvoir a ns:Author ;
+    rdfs:label "Simone de Beauvoir" .
+
+ns:Social_Realism a ns:Genre ;
+    rdfs:label "Social Realism" .
+
+ns:Southern_Gothic a ns:Genre ;
+    rdfs:label "Southern Gothic" .
+
+ns:Stanley_Chapman a ns:Author ;
+    rdfs:label "Stanley Chapman" .
+
+ns:Stefan_Zweig a ns:Author ;
+    rdfs:label "Stefan Zweig" .
+
+ns:Swedish a ns:Language ;
+    rdfs:label "Swedish" .
+
+ns:Theatre_Theory a ns:Genre ;
+    rdfs:label "Theatre Theory" .
+
+ns:Thomas_Mann a ns:Author ;
+    rdfs:label "Thomas Mann" .
+
+ns:Tragedy a ns:Genre ;
+    rdfs:label "Tragedy" .
+
+ns:Transgressive_Fiction a ns:Genre ;
+    rdfs:label "Transgressive Fiction" .
+
+ns:Umberto_Eco a ns:Author ;
+    rdfs:label "Umberto Eco" .
+
+ns:Vercors a ns:Author ;
+    rdfs:label "Vercors" .
+
+ns:Virginia_Woolf a ns:Author ;
+    rdfs:label "Virginia Woolf" .
+
+ns:Vladimir_Nabokov a ns:Author ;
+    rdfs:label "Vladimir Nabokov" .
+
+ns:War_Fiction a ns:Genre ;
+    rdfs:label "War Fiction" .
+
+ns:War_Novel a ns:Genre ;
+    rdfs:label "War Novel" .
+
+ns:William_Faulkner a ns:Author ;
+    rdfs:label "William Faulkner" .
+
+ns:William_Styron a ns:Author ;
+    rdfs:label "William Styron" .
+
+ns:Absurdist_Drama a ns:Genre ;
+    rdfs:label "Absurdist Drama" .
+
+ns:Autobiographical_Fiction a ns:Genre ;
+    rdfs:label "Autobiographical Fiction" .
+
+ns:Bildungsroman a ns:Genre ;
+    rdfs:label "Bildungsroman" .
+
+ns:Comedy a ns:Genre ;
+    rdfs:label "Comedy" .
+
+ns:Dystopian a ns:Genre ;
+    rdfs:label "Dystopian" .
+
+ns:Erotica a ns:Genre ;
+    rdfs:label "Erotica" .
+
+ns:Hardboiled a ns:Genre ;
+    rdfs:label "Hardboiled" .
+
+ns:Literary_Fiction a ns:Genre ;
+    rdfs:label "Literary Fiction" .
+
+ns:Play a ns:Genre ;
+    rdfs:label "Play" .
+
+ns:Postmodern_Fiction a ns:Genre ;
+    rdfs:label "Postmodern Fiction" .
+
+ns:Russian a ns:Language ;
+    rdfs:label "Russian" .
+
+ns:Mystery a ns:Genre ;
+    rdfs:label "Mystery" .
+
+ns:Political_Fiction a ns:Genre ;
+    rdfs:label "Political Fiction" .
+
+ns:Spanish a ns:Language ;
+    rdfs:label "Spanish" .
+
+ns:Adventure a ns:Genre ;
+    rdfs:label "Adventure" .
+
+ns:Detective_Fiction a ns:Genre ;
+    rdfs:label "Detective Fiction" .
+
+ns:Magic_Realism a ns:Genre ;
+    rdfs:label "Magic Realism" .
+
+ns:Memoir a ns:Genre ;
+    rdfs:label "Memoir" .
+
+ns:Nouveau_Roman a ns:Genre ;
+    rdfs:label "Nouveau Roman" .
+
+ns:Romance a ns:Genre ;
+    rdfs:label "Romance" .
+
+ns:Science_Fiction a ns:Genre ;
+    rdfs:label "Science Fiction" .
+
+ns:Surrealist_Fiction a ns:Genre ;
+    rdfs:label "Surrealist Fiction" .
+
+ns:Graphic_Novel a ns:Genre ;
+    rdfs:label "Graphic Novel" .
+
+ns:Philosophical_Fiction a ns:Genre ;
+    rdfs:label "Philosophical Fiction" .
+
+ns:Satire a ns:Genre ;
+    rdfs:label "Satire" .
+
+ns:Historical_Fiction a ns:Genre ;
+    rdfs:label "Historical Fiction" .
+
+ns:Italian a ns:Language ;
+    rdfs:label "Italian" .
+
+ns:Poetry a ns:Genre ;
+    rdfs:label "Poetry" .
+
+ns:Psychological_Fiction a ns:Genre ;
+    rdfs:label "Psychological Fiction" .
+
+ns:Modernist_Fiction a ns:Genre ;
+    rdfs:label "Modernist Fiction" .
+
+ns:German a ns:Language ;
+    rdfs:label "German" .
+
+ns:Non_fiction a ns:Genre ;
+    rdfs:label "Non-fiction" .
+
+ns:English a ns:Language ;
+    rdfs:label "English" .
+
+ns:French a ns:Language ;
+    rdfs:label "French" .
+
