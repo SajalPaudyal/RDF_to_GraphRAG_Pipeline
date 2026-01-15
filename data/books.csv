@@ -1,0 +1,101 @@
+No,Title,Author,Year,Language,Genre,GoodRead_rating,Description,Ranking
+1,The Stranger,Albert Camus,1942,French,Existentialist Fiction,4.03,A detached clerk kills a man in Algiers and faces legal consequences with chilling indifference.,1
+2,In Search of Lost Time,Marcel Proust,1913,French,Modernist Literature,4.16,"A monumental exploration of memory, time, and high society through the narrator's life.",2
+3,The Trial,Franz Kafka,1925,German,Philosophical Fiction,3.94,"A man is arrested and prosecuted by a remote, inaccessible authority for a crime never revealed.",3
+4,The Little Prince,Antoine de Saint-Exupéry,1943,French,Children's Fable,4.33,A stranded pilot meets a young prince from another planet who teaches him about love and life.,4
+5,Man's Fate,André Malraux,1933,French,Historical Fiction,3.74,"Set during the 1927 Shanghai insurrection, exploring the human condition and political idealism.",5
+6,Journey to the End of the Night,Louis-Ferdinand Céline,1932,French,Modernist Fiction,4.18,"A cynical, misanthropic odyssey through WWI, colonial Africa, and urban America.",6
+7,The Grapes of Wrath,John Steinbeck,1939,English,Social Realism,4.03,An impoverished family of tenant farmers is driven from their Oklahoma home during the Great Depression.,7
+8,For Whom the Bell Tolls,Ernest Hemingway,1940,English,War Novel,3.99,An American volunteer in the Spanish Civil War is tasked with blowing up a bridge.,8
+9,Le Grand Meaulnes,Alain-Fournier,1913,French,"Coming-of-age, Romance",3.72,"A haunting tale of lost love and the search for a mysterious, vanished estate.",9
+10,Froth on the Daydream,"Boris Vian, Stanley Chapman",1947,French,Surrealist Fiction,3.92,"A surreal, tragicomic romance where a woman develops a water lily in her lung.",10
+11,The Second Sex,Simone de Beauvoir,1949,French,"Non-fiction, Feminist Philosophy",4.18,A foundational feminist text analyzing the treatment of women throughout history.,11
+12,Waiting for Godot,Samuel Beckett,1952,French,Absurdist Drama,3.84,Two characters wait endlessly and fruitlessly for the arrival of someone named Godot.,12
+13,Being and Nothingness,Jean-Paul Sartre,1943,French,"Non-fiction, Existentialist Philosophy",3.99,"A dense philosophical treatise on existentialism, free will, and the nature of consciousness.",13
+14,The Name of the Rose,Umberto Eco,1980,Italian,"Historical Mystery, Postmodern Fiction",4.14,A historical murder mystery set in an Italian monastery in 1327.,14
+15,The Gulag Archipelago,Aleksandr Solzhenitsyn,1973,Russian,"Non-fiction, History, Memoir",4.33,A harrowing account of the Soviet forced labor camp system based on eyewitness testimony.,15
+16,Paroles,Jacques Prévert,1946,French,Poetry,4.18,"A collection of accessible, rebellious, and deeply influential French poetry.",16
+17,Alcools,Guillaume Apollinaire,1913,French,Poetry,3.84,A landmark collection of modernist poetry that experiments with form and removes punctuation.,17
+18,The Blue Lotus,Hergé,1936,French,"Graphic Novel, Adventure",4.13,"The fifth Tintin adventure, following the reporter to China to dismantle an opium ring.",18
+19,The Diary of a Young Girl,Anne Frank,1947,Dutch,"Autobiography, Non-fiction",4.2,The poignant real-life diary of a Jewish girl hiding from the Nazis in Amsterdam.,19
+20,Tristes Tropiques,Claude Lévi-Strauss,1955,French,"Non-fiction, Anthropology, Memoir",4.14,A philosophical travelogue and anthropological study of indigenous tribes in Brazil.,20
+21,Brave New World,Aldous Huxley,1932,English,"Dystopian, Science Fiction",3.99,A dystopian vision of a future society driven by genetic engineering and social conditioning.,21
+22,Nineteen Eighty-Four,George Orwell,1949,English,"Dystopian, Political Fiction",4.2,A chilling portrayal of a totalitarian future under the constant surveillance of Big Brother.,22
+23,Asterix the Gaul,"René Goscinny, Albert Uderzo",1959,French,"Graphic Novel, Comedy",4.18,The first adventure of the indomitable Gauls resisting Roman occupation with magic potion.,23
+24,The Bald Soprano,Eugène Ionesco,1952,French,Absurdist Drama,4.03,A 'theatre of the absurd' play satirizing the banality of English middle-class life.,24
+25,Three Essays on the Theory of Sexuality,Sigmund Freud,1905,German,"Non-fiction, Psychology",3.64,Freud's groundbreaking work exploring the development of the sexual instinct.,25
+26,The Abyss,Marguerite Yourcenar,1968,French,Historical Fiction,4.03,A historical novel following a 16th-century doctor and alchemist seeking intellectual freedom.,26
+27,Lolita,Vladimir Nabokov,1955,English,Literary Fiction,3.87,A controversial masterpiece about a man's obsessive infatuation with a twelve-year-old girl.,27
+28,Ulysses,James Joyce,1922,English,Modernist Fiction,3.76,A complex modernist retelling of the Odyssey set during a single day in Dublin.,28
+29,The Tartar Steppe,Dino Buzzati,1940,Italian,Philosophical Fiction,4.21,A soldier spends his life at a remote fort waiting for an enemy that never comes.,29
+30,The Counterfeiters,André Gide,1925,French,Modernist Fiction,3.93,A multi-layered novel exploring authenticity through a group of young men and writers.,30
+31,The Horseman on the Roof,Jean Giono,1951,French,"Adventure, Historical Fiction",3.86,A young Italian officer journeys through a cholera-stricken Provence in the 1830s.,31
+32,Belle du Seigneur,Albert Cohen,1968,French,"Romance, Satire",4.08,A monumental love story satirizing the League of Nations and obsessive passion.,32
+33,One Hundred Years of Solitude,Gabriel García Márquez,1967,Spanish,Magic Realism,4.12,The multi-generational story of the Buendía family in the magical town of Macondo.,33
+34,The Sound and the Fury,William Faulkner,1929,English,"Modernist Fiction, Southern Gothic",3.86,A complex narrative exploring the tragic downfall of the Compson family in the American South.,34
+35,Thérèse Desqueyroux,François Mauriac,1927,French,Psychological Fiction,3.68,A woman trapped in a stifling marriage attempts to poison her husband.,35
+36,Zazie in the Metro,Raymond Queneau,1959,French,"Satire, Surrealist Fiction",3.65,"A mischievous girl visits Paris and experiences a surreal, linguistic-bending adventure.",36
+37,Confusion of Feelings,Stefan Zweig,1927,German,"Psychological Fiction, Novella",4.04,"An elderly professor recalls a formative, intense emotional relationship from his youth.",37
+38,Gone with the Wind,Margaret Mitchell,1936,English,Historical Romance,4.31,A sweeping epic of the American Civil War through the eyes of the headstrong Scarlett O'Hara.,38
+39,Lady Chatterley's Lover,D. H. Lawrence,1928,English,"Romance, Erotica",3.5,A controversial novel exploring the physical and emotional relationship between a noblewoman and a gamekeeper.,39
+40,The Magic Mountain,Thomas Mann,1924,German,"Philosophical Fiction, Bildungsroman",4.13,A young man visits a Swiss sanatorium and becomes immersed in the philosophical debates of a dying Europe.,40
+41,Bonjour Tristesse,Françoise Sagan,1954,French,Psychological Fiction,3.74,A cynical teenager spends a summer in the French Riviera and plots to sabotage her father’s romance.,41
+42,Le Silence de la mer,Vercors,1942,French,War Fiction,3.85,"A story of quiet resistance in occupied France, told through a family's silence toward a German officer.",42
+43,Life: A User's Manual,Georges Perec,1978,French,Postmodern Fiction,4.18,An intricate jigsaw puzzle of stories revolving around the inhabitants of a Parisian apartment building.,43
+44,The Hound of the Baskervilles,Arthur Conan Doyle,1902,English,"Mystery, Detective Fiction",4.14,Sherlock Holmes investigates a supernatural spectral hound on the moors of Devon.,44
+45,Under the Sun of Satan,Georges Bernanos,1926,French,Religious Fiction,3.59,A priest struggles with his faith and encounters the devil in rural France.,45
+46,The Great Gatsby,F. Scott Fitzgerald,1925,English,"Literary Fiction, Jazz Age",3.93,"A tragic tale of obsession, wealth, and the American Dream in the Roaring Twenties.",46
+47,The Joke,Milan Kundera,1967,Czech,"Satire, Political Fiction",4.03,A young man's life is ruined by a sarcastic postcard in communist Czechoslovakia.,47
+48,Contempt/A Ghost at Noon,Alberto Moravia,1954,Italian,Psychological Fiction,3.95,A writer's marriage disintegrates during the production of a film in Italy.,48
+49,The Murder of Roger Ackroyd,Agatha Christie,1926,English,"Mystery, Detective Fiction",4.26,A classic Hercule Poirot mystery famous for its revolutionary narrative twist.,49
+50,Nadja,André Breton,1928,French,"Surrealist Fiction, Memoir",3.53,A surrealist semi-autobiographical account of the author's relationship with a young woman.,50
+51,Aurélien,Louis Aragon,1944,French,"Historical Fiction, Romance",4.3,"A tragic love story set in interwar Paris, exploring disillusionment and beauty.",51
+52,The Satin Slipper,Paul Claudel,1929,French,Drama,3.54,"A massive, poetic drama about Spanish conquistadors, destiny, and spiritual love.",52
+53,Six Characters in Search of an Author,Luigi Pirandello,1921,Italian,"Metafiction, Play",3.83,Characters from an unfinished play appear at a rehearsal demanding their story be told.,53
+54,The Resistible Rise of Arturo Ui,Bertolt Brecht,1941,German,"Satire, Play",3.81,"A satirical allegory of Hitler's rise to power, set in the world of Chicago mobsters.",54
+55,Friday,Michel Tournier,1967,French,"Philosophical Fiction, Retelling",3.67,A retelling of Robinson Crusoe that explores the psychological and philosophical impact of solitude.,55
+56,The War of the Worlds,H. G. Wells,1898,English,Science Fiction,3.83,An influential sci-fi novel depicting an invasion of Earth by Martians.,56
+57,If This Is a Man,Primo Levi,1947,Italian,"Non-fiction, Memoir, Holocaust",4.35,A powerful memoir of survival and humanity in the Auschwitz concentration camp.,57
+58,The Lord of the Rings,J.R.R. Tolkien,1954,English,Epic Fantasy,4.54,"An epic high-fantasy trilogy about the quest to destroy a powerful, corrupting ring.",58
+59,The Tendrils of the Vine,Colette,1908,French,"Non-fiction, Short Stories",3.4,A collection of poetic essays and observations on nature and the senses.,59
+60,Capital of Pain,Paul Éluard,1926,French,Poetry,4.07,"A seminal collection of surrealist poetry exploring love, dreams, and suffering.",60
+61,Martin Eden,Jack London,1909,English,"Autobiographical Fiction, Bildungsroman",4.48,A self-taught sailor struggles to become a successful writer to win the heart of a socialite.,61
+62,The Ballad of the Salty Sea,Hugo Pratt,1967,Italian,"Graphic Novel, Adventure",4.23,The debut graphic novel featuring the enigmatic sailor-adventurer Corto Maltese.,62
+63,Writing Degree Zero,Roland Barthes,1953,French,"Non-fiction, Literary Criticism",3.88,An influential work of literary theory examining the political and social nature of language.,63
+64,The Lost Honour of Katharina Blum,Heinrich Böll,1974,German,"Political Fiction, Satire",3.7,A woman's life is destroyed by the sensationalist tactics of a tabloid newspaper.,64
+65,The Opposing Shore,Julien Gracq,1951,French,Surrealist Fiction,4.01,"A soldier waits at a border for an ancient war to resume in a dreamlike, atmospheric landscape.",65
+66,The Order of Things,Michel Foucault,1966,French,"Non-fiction, Philosophy",4.12,A profound analysis of the history of the human sciences and the structures of knowledge.,66
+67,On the Road,Jack Kerouac,1957,English,Beat Literature,3.61,"A defining work of the Beat Generation, chronicling cross-country travels across America.",67
+68,The Wonderful Adventures of Nils,Selma Lagerlöf,1906,Swedish,Children's Fantasy,3.03,A mischievous boy is shrunk to miniature size and travels Sweden with wild geese.,68
+69,A Room of One's Own,Virginia Woolf,1929,English,"Non-fiction, Feminist Essay",4.22,An extended essay arguing for the necessity of financial and physical space for female writers.,69
+70,The Martian Chronicles,Ray Bradbury,1950,English,Science Fiction,4.16,A series of linked stories about the colonization of Mars and the displacement of its natives.,70
+71,The Ravishing of Lol Stein,Marguerite Duras,1964,French,"Nouveau Roman, Psychological Fiction",3.6,A haunting psychological novel about a woman witnessing her fiancé's betrayal.,71
+72,The Interrogation,J. M. G. Le Clézio,1963,French,Nouveau Roman,3.26,"A man wanders a sun-drenched city, possibly a deserter or a madman, undergoing a mental trial.",72
+73,Tropisms,Nathalie Sarraute,1939,French,"Nouveau Roman, Experimental Fiction",3.7,"Experimental short prose pieces capturing the subtle, subconscious movements of the mind.",73
+74,"Journal, 1887–1910",Jules Renard,1925,French,"Non-fiction, Diary",4.15,"Journal (Renard),""The witty and often bitter personal diaries of a significant French playwright and novelist.",74
+75,Lord Jim,Joseph Conrad,1900,English,"Adventure, Psychological Fiction",3.61,A sailor seeks redemption after abandoning a ship he believed was sinking.,75
+76,Écrits,Jacques Lacan,1966,French,"Non-fiction, Psychoanalysis",4.03,A complex collection of essays and lectures by the influential psychoanalyst Jacques Lacan.,76
+77,The Theatre and Its Double,Antonin Artaud,1938,French,"Non-fiction, Theatre Theory",4.14,A manifesto calling for a 'Theatre of Cruelty' to shock and transform the audience.,77
+78,Manhattan Transfer,John Dos Passos,1925,English,Modernist Fiction,3.64,A kaleidoscopic novel capturing the chaotic energy and overlapping lives of New York City.,78
+79,Ficciones,Jorge Luis Borges,1944,Spanish,"Philosophical Short Stories, Magic Realism",4.4,"A collection of short stories famous for their mathematical, philosophical, and labyrinthine themes.",79
+80,Moravagine,Blaise Cendrars,1926,French,Modernist Fiction,3.81,"A dark, frenetic novel about a professional killer and his companion traveling the world.",80
+81,The General of the Dead Army,Ismail Kadare,1963,Albanian,Historical Fiction,4.02,An Italian general travels to Albania to recover the remains of fallen soldiers.,81
+82,Sophie's Choice,William Styron,1979,English,"Psychological Drama, Historical Fiction",4.17,A young writer befriends a Holocaust survivor who harbors a devastating secret.,82
+83,Gypsy Ballads,Federico García Lorca,1928,Spanish,Poetry,3,A vibrant collection of poetry celebrating and mourning the Gypsy culture of Andalusia.,83
+84,The Strange Case of Peter the Lett,Georges Simenon,1931,French,"Mystery, Detective Fiction",3.47,"The first Inspector Maigret novel, introducing the famous detective and his methods.",84
+85,Our Lady of the Flowers,Jean Genet,1944,French,Transgressive Fiction,4.01,"A poetic, transgressive novel written in prison, exploring the lives of outcasts.",85
+86,The Man Without Qualities,Robert Musil,1930,German,"Philosophical Fiction, Modernism",4.19,"A massive, unfinished novel analyzing the intellectual climate of the waning Austro-Hungarian Empire.",86
+87,Furor and Mystery,René Char,1948,French,Poetry,4.13,A collection of powerful poetry written by a leading figure of the French Resistance.,87
+88,The Catcher in the Rye,J. D. Salinger,1951,English,Coming-of-age Fiction,3.8,"The quintessential novel of teenage angst and rebellion, featuring Holden Caulfield.",88
+89,No Orchids For Miss Blandish,James Hadley Chase,1939,English,"Hardboiled, Crime Fiction",3.77,"A gritty, controversial noir thriller about a kidnapping gone wrong.",89
+90,Blake and Mortimer,Edgar P. Jacobs,1950,French,"Graphic Novel,  Science Fiction",3.99,"The first adventure of the British duo, focusing on global threats and high-tech mystery.",90
+91,The Notebooks of Malte Laurids Brigge,Rainer Maria Rilke,1910,German,Modernist Novel,3,"A semi-autobiographical novel exploring urban alienation, poverty, and death in Paris.",91
+92,Second Thoughts,Michel Butor,1957,French,Nouveau Roman,3.57,A pioneering 'nouveau roman' following a man's train journey and his shifting perceptions.,92
+93,The Origins of Totalitarianism,Hannah Arendt,1951,English,"Non-fiction, Political Philosophy",4.3,A seminal political study of the roots of Nazi Germany and Stalinist Russia.,93
+94,The Master and Margarita,Mikhail Bulgakov,1967,Russian,"Satirical Fantasy, Magic Realism",4.28,A supernatural satire in which the devil visits atheistic Soviet Moscow.,94
+95,The Rosy Crucifixion,Henry Miller,1949,English,"Autobiographical Fiction, Erotica",4,A fictionalized trilogy detailing the author's early struggles as a writer in New York.,95
+96,The Big Sleep,Raymond Chandler,1939,English,"Hardboiled, Detective Fiction",3.94,"The first Philip Marlowe novel, a classic of the hardboiled detective genre.",96
+97,Amers,Saint-John Perse,1957,French,Poetry,3.71,"A majestic, expansive poem celebrating the sea as a source of life and renewal.",97
+98,Gaston,André Franquin,1957,French,"Graphic Novel, Comedy",4.12,A comic strip featuring an incredibly lazy and accident-prone office assistant.,98
+99,Under the Volcano,Malcolm Lowry,1947,English,"Modernist Fiction, Tragedy",3.76,"The story of the final, alcohol-soaked day of a British consul in Mexico.",99
+100,Midnight's Children,Salman Rushdie,1981,English,"Postcolonial Fiction, Magic Realism",3.97,A magical realist epic following children born at the exact moment of India's independence.,100

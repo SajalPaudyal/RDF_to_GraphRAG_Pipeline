@@ -48,8 +48,8 @@ xsd:gYear rdf:type rdfs:Datatype .
              rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/sajalpaudyal/ontologies/2026/lemonde100#goodreadRating
-:goodreadRating rdf:type owl:DatatypeProperty ;
+###  http://www.semanticweb.org/sajalpaudyal/ontologies/2026/lemonde100#goodReadRating
+:goodReadRating rdf:type owl:DatatypeProperty ;
                 rdfs:domain :Book ;
                 rdfs:range xsd:decimal .
 
