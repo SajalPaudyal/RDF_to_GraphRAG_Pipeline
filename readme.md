@@ -29,7 +29,8 @@ The `.env` file contains the following environment variables
 
 ## Requirements
 The required Python packages are listed in the `requirements.txt` file. You can install them using:
-```pip install -r requirements.txt
+```python
+pip install -r requirements.txt
 ```
 
 ## Usage
