@@ -39,3 +39,8 @@ pip install -r requirements.txt
 3. Run the `ontology_creator.py` script to generate RDF triples from the CSV data.
 4. Import the generated RDF file and OWL ontology into your GraphDB repository.
 5. Use the `langchain_graphdb.ipynb` notebook to interact with the Graph Database using LangChain.
+
+
+## Note
+- In my example to interact with the Graph Database GraphDB with LangChain, I have used the local instance of GraphDB. 
+- The language model we have used the `GLM 4.7` model by the `Z.ai` available on Hugging Face. There are more efficient models (I used this just to try out it's capabilities and efficiency with SPARQL). You can know further about it from the official [HuggingFace documentation](https://huggingface.co/zai-org/GLM-4.7-FP8) page.
