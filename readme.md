@@ -17,7 +17,7 @@ This repository contains a pipeline of converting CSV Data (List of top 100 book
 2. **Creating a OWL Ontology**: You can refer to [`owl basics`](./basics/basic_owl.md) to understand what is OWL ontology and how can it go hand on hand with RDF. 
 3. **Creating the OWL Ontology using Protégé**: The OWL ontology is created using the Protégé tool, defining classes, properties, and individuals for the book domain. The process is described (for this project) in the [`protege_basics`](./basics/protege_basics.md) file. But it will give you a proper guideline to create the entire ontology from scratch to any project you desire.
 4. **Converting CSV to RDF Triples**: We reads the CSV file and convert each row into RDF triples based on the defined ontology using the `python-rdflib` library.
-5. ****Storing RDF Triples in Graph Database**: The generated RDF triples are stored in a Graph Database (`GraphDB`) for efficient querying and retrieval. You just need to import the RDF file into the GraphDB repository.
+5. **Storing RDF Triples in Graph Database**: The generated RDF triples are stored in a Graph Database (`GraphDB`) for efficient querying and retrieval. You just need to import the RDF file into the GraphDB repository.
 6. **Interacting with Graph Database using LangChain**: The documentation from [`langchain`](https://docs.langchain.com/oss/python/integrations/graphs/ontotext) notebook gives step by step process to interact with the Graph Database using the LangChain framework.
 
 ## Environment Variables
@@ -39,6 +39,18 @@ pip install -r requirements.txt
 3. Run the `ontology_creator.py` script to generate RDF triples from the CSV data.
 4. Import the generated RDF file and OWL ontology into your GraphDB repository.
 5. Use the `langchain_graphdb.ipynb` notebook to interact with the Graph Database using LangChain.
+
+
+## Graph Examples
+
+### Graph of rdf:type Book displayed on GraphDB
+*All books are not shown to keep the UI more understandable and user-friendly*
+
+![Graph of rdf:type Book on GraphDB](./images/book_graph_db.png)
+
+
+### Details on the Book `The Trial`
+![Graph of the book The Trial by Franz Kafka](./images/the_trial_graph_db.png)
 
 
 ## Note
